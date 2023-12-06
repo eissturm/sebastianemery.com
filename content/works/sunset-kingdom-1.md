@@ -2,7 +2,6 @@
 title = 'Spring of Black Flowers'
 description = 'A novel by Andrew Meyer'
 date = 2023-12-05T21:10:20-06:00
-draft = true
 tags = ["novel"]
 +++
 

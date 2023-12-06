@@ -1,7 +1,6 @@
 +++
 title = 'Sunbuilders'
 date = 2023-12-05T22:05:25-06:00
-draft = true
 tags = ["short story", "science fiction"]
 read_more_copy = "Read now - Full Text Online"
 +++

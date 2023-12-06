@@ -1,7 +1,6 @@
 +++
 title = 'About'
 date = 2023-12-05T19:58:20-06:00
-draft = true
 menu = "main"
 +++
 Andrew Meyer is a native of Saint Paul, Minnesota where he lives today with his wife and family. By day, he is a technologist and high tech consultant, by night a crafter of fantastical worlds and events.
