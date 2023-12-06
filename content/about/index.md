@@ -9,7 +9,7 @@ Andrew Meyer is a native of Saint Paul, Minnesota where he lives today with his 
 
 ## Biography
 
-Born on a snowy day in late 1990, Andrew Meyer was raised in the Twin Cities of Minnesota. He occasionally attended the University of Minnesota where he supposedly studied Computer Science and Mathematics. While not graduating, he began a career in technology consulting and has worked for a variety of companies in the Twin Cities area.
+Born on a snowy day in late 1990, Andrew Meyer was raised in the Twin Cities of Minnesota. He occasionally attended the Winona State University where he supposedly studied Computer Science and Mathematics. While not graduating, he began a career in technology consulting and has worked for a variety of companies in the Twin Cities area.
 
 Andrew has been writing since he was a kid, but only recently began to pursue it as a career. He is currently working on his third novel, *Crystal Empire (working title)*, an epic fantasy story of a diverse group of characters and the struggle to save a world that is already broken.
 
