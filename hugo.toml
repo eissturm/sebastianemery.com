@@ -1,0 +1,8 @@
+baseURL = 'https://andrew-meyer.com/'
+languageCode = 'en-us'
+title = 'Andrew Meyer'
+theme = 'ananke'
+SectionPagesMenu = "main"
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/andrewmeyer"
