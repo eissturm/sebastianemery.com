@@ -1,7 +1,6 @@
 +++
 title = 'Crystal Empire (Working Title)'
-date = 2024-03-31T16:37:46-06:00
-draft = true
+date = 2023-12-06T16:37:46-06:00
 tags = ["novel", "fantasy", "epic fantasy"]
 +++
 *God is dead, but somebody still has to do the job.*
