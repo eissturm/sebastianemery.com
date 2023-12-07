@@ -4,7 +4,7 @@ date = 2023-12-06T18:28:50-06:00
 +++
 I make some pretty good pizza. It's taken a couple years to get it right, but I think we've got it down now. If you're thinking about trying to make pizza at home, here are some tips, tricks, and advice for you to consider as you embark on this most excellent pursuit.
 
-![Pizza](/images/Pizza/Dec-2023-1.jpg)
+![Pizza](/images/pizza/Dec-2023-1.jpg)
 
 ## Dough
 Good dough is the foundation of good pizza. You want to make a high gluten dough, and you ideally want a long, cold proof. This will give you a dough that is easy to work with, and has a lot of flavor.
