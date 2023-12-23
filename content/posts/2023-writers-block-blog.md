@@ -1,6 +1,6 @@
 +++
 title = 'Writer Blocked'
-date = 2023-12-22T16:56:03-06:00
+date = 2023-12-21T16:56:03-06:00
 +++
 Just keep writing.  Just keep writing.  Just keep writing.
 
