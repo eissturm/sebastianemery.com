@@ -5,6 +5,6 @@ date = 2023-12-05T19:52:55-06:00
 +++
 # [2023 Year in Review](/posts/2023-year-in-review/)
 
-***[Crystal Empire](/works/crystal-empire/)***: 17500 / 130000 words (13%)
+***[Crystal Empire](/works/crystal-empire/)***: 20000 / 130000 words (15%)
 
 ***[Decemilia Verba](/works/decemilia/)***: Coming Soon (100%)
