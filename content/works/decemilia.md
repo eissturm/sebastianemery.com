@@ -10,4 +10,4 @@ This award winning novella is a story of magic, music, and the power of what wor
 
 ## Read
 
-**Coming Soon**
+Decemilia Verba is available to read on [Kindle](https://www.amazon.com/Decemilia-Verba-Andrew-Meyer-ebook/dp/B0CQYWH1N9/)
