@@ -134,6 +134,6 @@ While it is undeniable that generative Artificial Intelligence is going to have 
 ## Sources and Further Reading
 
 * [Embracing Creativity: How AI Can Enhance the Creative Process](https://www.sps.nyu.edu/homepage/emerging-technologies-collaborative/blog/2023/embracing-creativity-how-ai-can-enhance-the-creative-process.html#:~:text=AI%20can%20analyze%20existing%20compositions,can%20kickstart%20the%20writing%20process.) - NYU.edu
-* [Stanford AI Index](https://hai.stanford.edu/ai-index-2021) - Stanford.edu
+* [Stanford AI Index](https://hai.stanford.edu/research/ai-index-2023) - Stanford.edu
 * [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone) - Coursera.org
 * [The Current Absurd State of Generating AI Images](https://www.youtube.com/watch?v=-JQDtzSaAuA) - YouTube.com
