@@ -1,7 +1,6 @@
 +++
-title = '2024 Time Flies'
+title = 'Time Flies'
 date = 2024-04-26T00:36:06-04:00
-draft = true
 +++
 It's been an eventful few months for me.
 
