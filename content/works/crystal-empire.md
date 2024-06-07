@@ -11,4 +11,4 @@ tags = ["novel", "fantasy", "epic fantasy"]
 
 ## Progress
 
-45000 / 135000 words (34%)
+53000 / 135000 words (39%)
