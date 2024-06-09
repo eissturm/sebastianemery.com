@@ -9,4 +9,4 @@ Have a question, concern, or want to join the mailing list? Let me know!
 
 {{< form-contact action="https://formspree.io/f/xaygrqwa" >}}
 
-Click here to [subscribe](mailto://subscribe@andrew-meyer.com) to the mailing list!
+Send something [here](mailto://subscribe@andrew-meyer.com) to subscribe to the mailing list!
