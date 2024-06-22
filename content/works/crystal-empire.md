@@ -11,7 +11,7 @@ tags = ["novel", "fantasy", "epic fantasy"]
 
 ## Progress
 
-53000 / 135000 words (39%)
+62000 / 135000 words (46%)
 
 ## Preview Chapters
 
