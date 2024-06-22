@@ -3,8 +3,6 @@ title = 'The Crystal Empire Preview 3'
 date = 2024-06-21T20:35:48-04:00
 +++
 
-# *The Crystal Empire* Preview 3
-
 ## Introduction
 
 For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
@@ -117,3 +115,6 @@ Hawk tribe men pushed the carts in closer, forcing the women and children into t
 Women and children cried as they were pushed into the pit, and men scrambled to climb their way out, to fight, only to be shoved back by members of the Hawk tribe. In a matter of moments, the entire village was in the pit, screaming villages given barely enough room to stand on their own.
 
 Kirin’s forge-coal crystal flashed, and a continuous jet of flame rushed out from it into the pit below, sweeping through the gathered men and women and setting them ablaze. Their screams died in their mouths as flames choked out their last breaths, immolating the entire village in yet another hellish scene to haunt Kinro and remind him of his failure to save anyone.
+---
+
+Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-Crystal-Empire-Preview-4)

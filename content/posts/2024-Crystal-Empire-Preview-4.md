@@ -3,8 +3,6 @@ title = 'The Crystal Empire Preview 4'
 date = 2024-06-21T20:39:24-04:00
 +++
 
-# *The Crystal Empire* Preview 4
-
 ## Introduction
 
 For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.

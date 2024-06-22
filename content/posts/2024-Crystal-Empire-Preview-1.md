@@ -3,8 +3,6 @@ title = 'The Crystal Empire Preview 1'
 date = 2024-06-20T09:20:00-04:00
 +++
 
-# *The Crystal Empire* Preview 1
-
 ## Introduction
 
 For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
@@ -167,3 +165,7 @@ Tarran nodded approvingly, and stepped back to let Bran work.
 The acolytes began the hymn, and Bran was anointed with the proper oils. As if the corpse were a crystal, Bran reached for Tulian’s body with his will, and found an infinitely vast power raging inside. He invited it into himself and that was all it took. At first a trickle, then a wave as the power fled its dying host.
 
 And Bran became the second nine hundred and ninety fourth Emperor, Lord and God of all Creation.
+
+---
+
+Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-Crystal-Empire-Preview-2)

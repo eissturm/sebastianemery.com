@@ -3,8 +3,6 @@ title = 'The Crystal Empire Preview 2'
 date = 2024-06-20T09:25:00-04:00
 +++
 
-# *The Crystal Empire* Preview 2
-
 ## Introduction
 
 For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
@@ -250,3 +248,6 @@ It was a slow and ancient thing, more sounds than words to Demara’s ears. If t
 
 Finally, Ulari flashed a brilliant, pure white light that rushed out sweeping past the tribe to meet the Turning sweeping across the whole of the world. Demara blinked away the tears from the light, and when she finally did, she was happy to see the ever present blanket of clouds from the last year was retreating, revealing the stars against the familiar purple skies of the Turning night. She cheered at the sight, and was surprised when the rest of the Blossom Tribe joined along.
 
+---
+
+Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-Crystal-Empire-Preview-3)
