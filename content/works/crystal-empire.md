@@ -12,3 +12,10 @@ tags = ["novel", "fantasy", "epic fantasy"]
 ## Progress
 
 53000 / 135000 words (39%)
+
+## Preview Chapters
+
+* [Preview 1](/blog/2024-Crystal-Empire-Preview-1)
+* [Preview 2](/blog/2024-Crystal-Empire-Preview-2)
+* [Preview 3](/blog/2024-Crystal-Empire-Preview-3)
+* [Preview 4](/blog/2024-Crystal-Empire-Preview-4)
