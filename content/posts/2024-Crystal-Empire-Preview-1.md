@@ -168,4 +168,4 @@ And Bran became the second nine hundred and ninety fourth Emperor, Lord and God 
 
 ---
 
-Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-Crystal-Empire-Preview-2)
+Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-crystal-empire-preview-2)

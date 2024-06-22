@@ -117,4 +117,4 @@ Women and children cried as they were pushed into the pit, and men scrambled to 
 Kirin’s forge-coal crystal flashed, and a continuous jet of flame rushed out from it into the pit below, sweeping through the gathered men and women and setting them ablaze. Their screams died in their mouths as flames choked out their last breaths, immolating the entire village in yet another hellish scene to haunt Kinro and remind him of his failure to save anyone.
 ---
 
-Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-Crystal-Empire-Preview-4)
+Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-crystal-empire-preview-4)

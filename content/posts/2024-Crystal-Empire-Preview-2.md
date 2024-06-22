@@ -250,4 +250,4 @@ Finally, Ulari flashed a brilliant, pure white light that rushed out sweeping pa
 
 ---
 
-Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-Crystal-Empire-Preview-3)
+Want to read more? Check out the next [Crystal Empire Preview Chapter](/posts/2024-crystal-empire-preview-3)
