@@ -15,7 +15,7 @@ tags = ["novel", "fantasy", "epic fantasy"]
 
 ## Preview Chapters
 
-* [Preview 1](/blog/2024-Crystal-Empire-Preview-1)
-* [Preview 2](/blog/2024-Crystal-Empire-Preview-2)
-* [Preview 3](/blog/2024-Crystal-Empire-Preview-3)
-* [Preview 4](/blog/2024-Crystal-Empire-Preview-4)
+* [Preview 1](/posts/2024-Crystal-Empire-Preview-1)
+* [Preview 2](/posts/2024-Crystal-Empire-Preview-2)
+* [Preview 3](/posts/2024-Crystal-Empire-Preview-3)
+* [Preview 4](/posts/2024-Crystal-Empire-Preview-4)
