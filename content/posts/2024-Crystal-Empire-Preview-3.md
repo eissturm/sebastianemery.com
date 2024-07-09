@@ -9,7 +9,7 @@ For your reading pleasure is an early look into an early chapter of [*The Crysta
 
 ---
 
-# The Crystal Empire
+![the crystal empire](/images/crystal-empire-logo.png)
 
 ## Kinro 1
 

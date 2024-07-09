@@ -11,7 +11,7 @@ This chapter server as the prologue, and centers around Tulian, God Emperor of a
 
 ---
 
-# The Crystal Empire
+![the crystal empire](/images/crystal-empire-logo.png)
 
 ## Tulian
 

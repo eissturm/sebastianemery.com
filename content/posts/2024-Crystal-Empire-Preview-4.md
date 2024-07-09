@@ -11,7 +11,7 @@ This selection is from a bit later in the book.
 
 ---
 
-# The Crystal Empire
+![the crystal empire](/images/crystal-empire-logo.png)
 
 ## Mal 1
 

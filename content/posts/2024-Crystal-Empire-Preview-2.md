@@ -11,7 +11,7 @@ This chapter is the first from the perspective of our heroine, Demara, and serve
 
 ---
 
-# The Crystal Empire
+![the crystal empire](/images/crystal-empire-logo.png)
 
 ## Demara 1
 
