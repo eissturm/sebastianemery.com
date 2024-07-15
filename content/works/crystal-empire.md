@@ -14,7 +14,7 @@ tags = ["novel", "fantasy", "epic fantasy"]
 
 ## Progress
 
-**DRAFT 1**: 68500 / 135000 words (50%)
+**DRAFT 1**: 80000 / 135000 words (60%)
 
 ## Preview Chapters
 
