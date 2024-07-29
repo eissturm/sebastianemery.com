@@ -1,6 +1,6 @@
 +++
 title = 'The Process'
-date = 2024-07-07T21:58:08-04:00
+date = 2024-07-27T21:58:08-04:00
 +++
 
 Writing is hard. Not in the way that manual labor is hard, or even in the way that a puzzle or a level in a video game can be hard. Instead, writing is hard like getting in shape is hard, like therapy is hard, like your job is hard. Sometimes success pours out of you, and others you can't get even the simplest of results. You get stuck, and making progress might as well be impossible. And yet in all of these things there are people who do them every day, succeeding consistently where you most often fail. How? What separates success from failure?
@@ -11,13 +11,54 @@ They always say to trust to the process. In my experience, you have to test the 
 
 My process is especially nerdy, I suspect, but should make sense to someone who has worked in software delivery before. It  allows for a lot of automation, which simply delights me.
 
-1. Each chapter is written in separate Word document files inside a `/Manuscript` folder
-1. This folder also contains a `table-of-contents.yml` file, which lists which order the chapters appear in the final manuscript
-1. A `build` script assembles the individual chapters into a single manuscript based on the table of contents file's direction. This script is run once daily.
-1. The built document is analyzed, metrics are recorded, and charts are generated to show progress since the last writing session.
-1. Writing plan is broken down into two week sprints, detailing which chapters need to be written.
-1. While overall beats and plot structure is planned, individual chapters are not plotted in too much detail so as to allow for flexibility during the writing process.
-1. Each chapter is commited to github in a private repository
-1. Pull requests from various branches trigger builds of the entire book for release to that audience.
+## The Process
 
-Doing things this way has accelerated my output significantly, offering the motivation and accountability I've often struggled with, without becoming so inflexible that I lose the joy I have for my project. I'm the kind of person who needs to see a line going up, and now I've got one for myself!
+![workflow diagram](/images/Workflow%20Diagram.png)
+
+Using a combination of Microsoft Word, git, and Github, I have built a workflow that feels smooth.
+
+### Write 
+The book is written in individual chapter .docx files, stored in the `/Manuscript`directory. I am writing in Word because it is "industry standard" and had a low barrier to entry for integrating and automating with Python. This also makes it easier to open multiple parts of the manuscript at once, something I was struggling with at time when writing in one continuous document. Back referencing shoutouts or name drops a hundred pages ago is a lot easier when I've broken the chapters into their own documents.
+
+### Table of Contents
+Also located in the `/Manuscript` directory, the `toc.yaml` file tracks the order to compile chapters at build time. This allows me to reorder the book as needed. If one chapter needs to move ahead of another one, it's a simple change without a lot of heavy lifting on my part. Usually.
+
+### Compilation
+A `/Manuscript/build.py` file compiles them, and can be triggered by a Github Action to build the book securely in the cloud, and is useful when working with collaborators.
+
+### Branching
+Using git's branching capabilities, we can track and control what versions of the story have been released to our collaborators and our readers.
+
+| Branch | Purpose | Audience |
+| ------ | ------- | -------- |
+| working | track my work as I'm writing it | author |
+| nightly | to review holistic state of the book as it is being written/refined | internal collaboration/editorial team |
+| alpha | versions of the book that are ready for early feedback and testing | Close family/friends, external editorial/marketing |
+| beta | the book is nearing its final form. Now open for wider feedback | Friends/family, trusted fans |
+| main | candidates for final publication | publishing staff, advance readers/reviewers |
+| release | the finalized, published version of the book | Public |
+
+Github also offers collaboration benefits; coders long ago worked out how to allow people to both edit the same file at once and how to manage the conflicts between them. Their Projects offers some interesting timelining and project management capabilities that might work for some writers.
+
+### Automation
+Github Actions power automated compilation of the book when a new contribution is committed to the private repository. The output of these automations is protected and secured to only the author and allowed contributors. Branches `nightly`, `alpha`, `beta`, and `main` are currently configured for auto-build. The `nightly` branch is caught up to the `working` branch every night at 9pm*
+
+When configuring this for your own environment, modify the `.github/workflows/build-manuscript.yml` to have your book's name where referenced between the `{ }` symbols.
+
+### Statistics
+The `/Stats` directory contains a jupyter notebook that processes the build and performs statistical analysis and trending of my progress. This outputs charts and stats blocks like the following, which have been incredibly motivating. Lets see if you can guess when I started doing this?
+
+![word count chart](/images/word_count_progress.png)
+```
+Target wordcount: 135000
+Current wordcount: 84099
+Latest contribution: 548.0
+Precent to completion: 62%
+Estimated days to completion: 55
+Estimated completion date: 2024-09-20
+Average Daily Words written: 931.7640449438202
+Highest single-day word count: 2718.0
+```
+
+### Private Notes
+`/Notes` contains plot, setting, and character notes relevant to the writing process, but not directly part of the manuscript.
