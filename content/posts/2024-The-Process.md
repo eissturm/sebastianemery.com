@@ -43,8 +43,6 @@ Github also offers collaboration benefits; coders long ago worked out how to all
 ### Automation
 Github Actions power automated compilation of the book when a new contribution is committed to the private repository. The output of these automations is protected and secured to only the author and allowed contributors. Branches `nightly`, `alpha`, `beta`, and `main` are currently configured for auto-build. The `nightly` branch is caught up to the `working` branch every night at 9pm*
 
-When configuring this for your own environment, modify the `.github/workflows/build-manuscript.yml` to have your book's name where referenced between the `{ }` symbols.
-
 ### Statistics
 The `/Stats` directory contains a jupyter notebook that processes the build and performs statistical analysis and trending of my progress. This outputs charts and stats blocks like the following, which have been incredibly motivating. Lets see if you can guess when I started doing this?
 
