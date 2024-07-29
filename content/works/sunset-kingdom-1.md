@@ -17,3 +17,7 @@ Henric Aldrimar is a boy of fourteen forced to shoulder the burden of an entire 
 
 ## Status
 I'm pretty sure I forgot a chapter or two somewhere. There are parts that are good. I intend to release it here after an editing review.
+
+## Preview Chapters
+
+* [Preview 1](/posts/2024-crystal-empire-preview-1)
