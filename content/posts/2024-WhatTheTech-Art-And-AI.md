@@ -1,5 +1,5 @@
 +++
-title = 'What the Tech: Art and Artificial Intelligence'
+title = 'What the Tech? Art and Artificial Intelligence'
 date = 2024-01-07T16:20:00-06:00
 +++
 

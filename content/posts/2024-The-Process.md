@@ -11,7 +11,13 @@ They always say to trust to the process. In my experience, you have to test the 
 
 My process is especially nerdy, I suspect, but should make sense to someone who has worked in software delivery before. It  allows for a lot of automation, which simply delights me.
 
-## The Process
+# Planning the Book
+
+All books begin with an idea, something that rattles around and sticks in my head. Often its an image or a scene, sometimes it's a character, sometimes simply a phrase.
+
+My second book, Desert Edge, started with the image of a behemoth rising out of the sand to destroy a caravan, sending them scrambling in a hostile, alien environment. It's very Dune. Over the next year or so, the rest of the story and the cast began to take shape and I actually had a book. I knew who my bad guy was, and what the outcome of the story was, and why we cared about it.
+
+# Writing the Book
 
 ![workflow diagram](/images/Workflow%20Diagram.png)
 

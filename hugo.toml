@@ -6,3 +6,6 @@ SectionPagesMenu = "main"
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/andrewmeyer"
+[[params.ananke_socials]]
+name = "patreon"
+url = "https://patreon.com/andrewmeyer"
