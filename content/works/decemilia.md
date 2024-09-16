@@ -7,7 +7,11 @@ Ten thousand magical words are a listening experience unlike any other, if you c
 
 This award winning novella is a story of magic, music, and the power of what words mean to each of us.
 
+## Praise for *Decemilia Verba*
+
+> "...Here, read a tale you will recall five years from now, as you stand someplace dull and consider the faces of strangers and see ordinary souls transformed to players in a grand heroic epic, each a hero to the music they almost catch… *Decimilia Verba*."
+**- Raymond Elmo on [Goodreads](https://www.goodreads.com/book/show/31373235-champions?from_search=true&from_srp=true&qid=jdJnK2oJ9M&rank=1)**
 
 ## Read
 
-Decemilia Verba is available to read on [Kindle](https://www.amazon.com/Decemilia-Verba-Andrew-Meyer-ebook/dp/B0CQYWH1N9/)
+Decemilia Verba is available to read on [Kindle](https://www.amazon.com/gp/product/B01JETZWHS/ref=x_gr_bb_kindle?caller=Goodreads&tag=x_gr_bb_kindle-20)
