@@ -16,4 +16,4 @@ Decemilia Verba won the r/FantasyWriters monthly short story contest in November
 
 ## Read
 
-Decemilia Verba is available to read on [Kindle](https://www.amazon.com/gp/product/B01JETZWHS/ref=x_gr_bb_kindle?caller=Goodreads&tag=x_gr_bb_kindle-20)
+Decemilia Verba is available to read on [Kindle](https://www.amazon.com/gp/product/B01JETZWHS/ref=x_gr_bb_kindle?caller=Goodreads&tag=x_gr_bb_kindle-20) as part of the *Champion's* Anthology, or available in a variety of formats as a thank you gift for signing up for the newsletter!
