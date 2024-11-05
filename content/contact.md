@@ -8,5 +8,3 @@ Have a question, concern? Let me know! Put "Join mailing list" as your message t
 
 
 {{< form-contact action="https://formspree.io/f/xaygrqwa" >}}
-
-Send something [here](mailto://subscribe@andrew-meyer.com) to subscribe to the mailing list!
