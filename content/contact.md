@@ -6,7 +6,7 @@ menu = "main"
 +++
 Have a question, concern? Let me know!
 
-Put "Join mailing list" as your message to subscribe to the montly newsletter and receive a free copy of [*Decemilia Verba*](/works/decemilia). We promise to only use this information to let you know about monthly updates and new releases!
+Join the [mailing list](https://forms.gle/YYKhv4GvREFMUBX38) and receive a free copy of [*Decemilia Verba*](/works/decemilia) as a welcome gift! We promise to never share this information or spam you.
 
 
 {{< form-contact action="https://formspree.io/f/xaygrqwa" >}}
