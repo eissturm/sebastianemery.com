@@ -7,4 +7,4 @@ date = 2023-12-05T19:52:55-06:00
 
 ***[Crystal Empire](/works/crystal-empire/)***: 100000 / 135000 words (74%)
 
-***[Decemilia Verba](/works/decemilia/)***: Subscribe to the newsletter!
+***Join the [mailing list](https://forms.gle/YYKhv4GvREFMUBX38) and receive a free copy of [*Decemilia Verba*](/works/decemilia) as a welcome gift!*** We promise to never share this information or spam you.
