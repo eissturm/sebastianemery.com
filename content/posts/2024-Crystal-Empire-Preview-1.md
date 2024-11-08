@@ -9,6 +9,8 @@ For your reading pleasure is an early look into an early chapter of [*The Crysta
 
 This chapter server as the prologue, and centers around Tulian, God Emperor of all creation as he dies before he is supposed to.
 
+An audiobook recording of this preview chapter is available [here](https://youtu.be/Qx1uRAPAVKI)
+
 ---
 
 ![the crystal empire](/images/crystal-empire-logo.png)
