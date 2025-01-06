@@ -15,4 +15,4 @@ tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
 
 ## Progress
 
-**BOOK 2: DRAFT 1**:  23000 / 100000 words (23%)
+**[Alpha]**:  29000 / 100000 words (29%)
