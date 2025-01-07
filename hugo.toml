@@ -9,3 +9,5 @@ url = "https://twitter.com/andrewmeyer"
 [[params.ananke_socials]]
 name = "patreon"
 url = "https://patreon.com/andrewmeyer"
+[markup.goldmark.renderer]
+unsafe = true
