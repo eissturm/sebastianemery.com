@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Andrew Meyer'
 theme = 'ananke'
 SectionPagesMenu = "main"
+[sitemap]
+ chagefreq = "weekly"
+ filename = "sitemap.xml"
+ priority = 0.5
+
 [[params.ananke_socials]]
 name = "YouTube"
 url = "https://www.youtube.com/@andrew-meyer-author"
