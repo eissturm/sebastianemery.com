@@ -1,6 +1,7 @@
 +++
 title = 'Spring of Black Flowers Chapter 1'
 date = 2015-07-29T15:49:11-04:00
+tags = ['chapter', 'fantasy', 'epic fantasy', 'Sunset Kingdom', 'free fiction']
 +++
 
 ## Introduction

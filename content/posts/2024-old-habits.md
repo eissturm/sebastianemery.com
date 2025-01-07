@@ -1,6 +1,7 @@
 +++
 title = 'Old Habits'
 date = 2024-03-02T08:00:49-06:00
+tags = ["blog"]
 +++
 I did it again.
 

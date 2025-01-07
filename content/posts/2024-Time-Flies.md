@@ -1,6 +1,7 @@
 +++
 title = 'Time Flies'
 date = 2024-04-26T00:36:06-04:00
+tags = ["blog", "life", "writing"]
 +++
 It's been an eventful few months for me.
 

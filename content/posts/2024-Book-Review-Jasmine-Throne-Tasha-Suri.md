@@ -1,6 +1,7 @@
 +++
 title = '2024 Book Review Jasmine Throne Tasha Suri'
 date = 2024-09-14T20:45:33-04:00
+tags = ['book review', 'fantasy']
 +++
 
 ## A Slow Walk Through a Beautiful Garden.
