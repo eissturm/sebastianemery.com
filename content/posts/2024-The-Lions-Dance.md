@@ -5,6 +5,10 @@ tags = ["short story", "fantasy", "epic fantasy", "Sunset Kingdom", "Dvor", "Fre
 read_more_copy = "Read now - Full Text Online"
 draft = true
 +++
+# Introduction
+Genre: High Fantasy
+Word Count: 4500 Words
+
 Deep in the dark underbelly of the King's newly constructed temple, three magae struggle to work the divine arts which have propelled their kingdom to heights not seen in centuries.
 
 The Lion's Dance was first written in Aril 2024. It takes place before [Spring of Black Flowers](/works/sunset-kingdom-1/).

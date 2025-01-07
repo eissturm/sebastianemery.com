@@ -7,6 +7,10 @@ draft = true
 +++
 ![Crystal Empire Logo](/images/crystal-empire-logo.png)
 
+# Introduction
+Genre: High Fantasy
+Word Count: 3700 Words
+
 Banished and betrayed by his homeland, the Exile searches for redemption in the wreckage of a world he failed to save.
 
 > The Exile was first published in December 2024. This story is a prequel to [To Chase Light](/works/crystal-empire/).

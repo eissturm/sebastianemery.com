@@ -5,6 +5,9 @@ tags = ["short story", "fantasy", "epic fantasy", "Terinu Nights", "Dvor", "Free
 read_more_copy = "Read now - Full Text Online"
 draft = false
 +++
+# Introduction
+Genre: Urban Fantasy
+Word Count: 2400 Words
 
 It's a cold night on the hard, unforgiving streets of Terinu, and nobody seems to realize it's a holy day.
 

@@ -4,6 +4,10 @@ date = 2015-01-30T22:05:25-06:00
 tags = ["short story", "science fiction", "Free Fiction"]
 read_more_copy = "Read now - Full Text Online"
 +++
+# Introduction
+Genre: Space Opera
+Word Count: 2000 Words
+
 *Far away, at the edge of space and the end of time is the world of Rhial, one of the last vestiges of terrestrial life anywhere in the dark, star-less universe. It is a cold, harsh world, where person's worth is measured in heat. While the world's leaders know full well they live on borrowed time as the universe spins down, and are determined to eek out what living they can until then, many of traders and explorers who wander the ice insist the stars will return.*
 
 Sunbuilders was first published in March 2015.

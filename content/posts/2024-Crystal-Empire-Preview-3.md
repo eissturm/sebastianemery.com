@@ -6,6 +6,8 @@ draft = true
 +++
 
 ## Introduction
+Genre: High Fantasy
+Word Count: 1700 Words
 
 For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
 
