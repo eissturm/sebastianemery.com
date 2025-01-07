@@ -4,8 +4,11 @@ title = 'Andrew Meyer'
 theme = 'ananke'
 SectionPagesMenu = "main"
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/andrewmeyer"
+name = "YouTube"
+url = "https://www.youtube.com/@andrew-meyer-author"
+[[params.ananke_socials]]
+name = "Twitter"
+url = "https://bsky.app/profile/andrew-meyer.bsky.social"
 [[params.ananke_socials]]
 name = "patreon"
 url = "https://patreon.com/andrewmeyer"
