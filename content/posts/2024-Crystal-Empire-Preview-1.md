@@ -1,6 +1,7 @@
 +++
 title = 'The Crystal Empire Preview 1'
 date = 2024-01-15T09:20:00-04:00
+tags = ["chapter", "fantasy", "epic fantasy", "Crystal Empire", "free fiction"]
 +++
 
 ## Introduction
