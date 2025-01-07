@@ -72,6 +72,9 @@ Sunbuilders was first published in March 2015.
 
 *Floating there, just a few meters above the rift’s floor was a sleek, large, black, thing...  Mulo didn’t have words to describe what it was.  He’d never seen anything that wasn’t stuck to the ground.  It glowed with a blue-white light that reflected off the icy walls and back onto it’s own blackness.  All Mulo knew was that it terrified him.*
 
+![an ai-generated draft illustration to accompany this short story](/images/constellara/draft-sunbuilders-illustration.webp)
+*<<This is an AI-generated placeholder image. Enjoy the vibe, but don't think too much about it, it sucks.>>*
+
 *He grabbed his wife and pulled her back around the bend, out of sight of the floating thing.*
 
 *“What was that?”*
