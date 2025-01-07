@@ -1,7 +1,7 @@
 +++
 title = 'The Crystal Empire Preview 1'
 date = 2024-01-15T09:20:00-04:00
-tags = ["chapter", "fantasy", "epic fantasy", "Crystal Empire", "free fiction"]
+tags = ["chapter", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
 +++
 
 ## Introduction
@@ -10,11 +10,13 @@ For your reading pleasure is an early look into an early chapter of [*The Crysta
 
 This chapter server as the prologue, and centers around Tulian, God Emperor of all creation as he dies before he is supposed to.
 
-An audiobook recording of this preview chapter is available [here](https://youtu.be/mL03Ih8UQkA)
-
 ---
 
 ![the crystal empire](/images/crystal-empire-logo.png)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mL03Ih8UQkA?si=f8m3hOAu9iEY6BPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Tulian
 

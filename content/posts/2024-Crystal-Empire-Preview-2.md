@@ -1,7 +1,7 @@
 +++
 title = 'The Crystal Empire Preview 2'
 date = 2024-03-15T09:25:00-04:00
-tags = ["chapter", "fantasy", "epic fantasy", "Crystal Empire", "free fiction"]
+tags = ["chapter", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
 +++
 
 ## Introduction
@@ -13,6 +13,10 @@ This chapter is the first from the perspective of our heroine, Demara, and serve
 ---
 
 ![the crystal empire](/images/crystal-empire-logo.png)
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1vyTQUBrBvw?si=ONoXu6H9IGfHsOEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Demara 1
 
