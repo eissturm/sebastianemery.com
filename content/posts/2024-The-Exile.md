@@ -236,3 +236,7 @@ She put the crystal back and grabbed a small wooden token off another shelf inst
 “Show that when you come back tonight,” she said. “The restaurant staff won’t bother you then.”  
 
 A few moments later, Mal was out on the streets of Thal’Ranir once again, reassuring himself that joining a gang was everything going according to plan.
+
+---
+
+Thank you for reading, I hope you've enjoyed! If you have any comments, questions, feedback or concerns, hit me up on [BlueSky](https://bsky.app/profile/andrew-meyer.bsky.social)! Stay tuned for more of Mal's adventure's through the Fringe.
