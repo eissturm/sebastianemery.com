@@ -2,6 +2,7 @@
 title = '2024 Book Review Some Desperate Glory Emily Tesh'
 date = 2025-01-01T00:00:00-05:00
 tags = ['book review', 'science fiction']
+keywords = ['book review', 'some desperate glory', 'emily tesh', 'science fiction', 'sci fi', 'sci-fi', 'queer']
 +++
 
 ![the book cover of Some Desperate Glory by Emily Tesh](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668621616i/58388343.jpg)
