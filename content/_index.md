@@ -12,3 +12,7 @@ Welcome to my website! By day I am a technologist, by night a crafter of epic wo
 ***[To Chase Light [Alpha]](/works/crystal-empire/)***: 100000 / 100000 words (100%)
 
 ***[Imperial Heart [Alpha]](/works/crystal-empire-2/)***: 29000 / 100000 words (29%)
+
+## Pathways of Constellara
+
+***[Sanctum of Ktheron](/works/constellara/)***: 2900 / 6000 (48%)

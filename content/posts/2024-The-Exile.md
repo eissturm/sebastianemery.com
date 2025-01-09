@@ -2,8 +2,8 @@
 title = "The Exile"
 date = 2024-12-31T23:59:59-05:00
 tags = ["short story", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
+keywords = ["fantasy","epic fantasy", "short story", "free fiction", "crystal empire", "magic system", "action","adventure"]
 read_more_copy = "Read now - Full Text Online"
-draft = true
 +++
 ![Crystal Empire Logo](/images/crystal-empire-logo.png)
 
@@ -13,7 +13,7 @@ Word Count: 3700 Words
 
 Banished and betrayed by his homeland, the Exile searches for redemption in the wreckage of a world he failed to save.
 
-> The Exile was first published in December 2024. This story is a prequel to [To Chase Light](/works/crystal-empire/).
+> The Exile was first published in December 2024. This story is set in the world of [Crystal Empire](/works/crystal-empire/).
 
 # The Exile
 
