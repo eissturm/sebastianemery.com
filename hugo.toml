@@ -4,6 +4,9 @@ title = 'Andrew Meyer'
 theme = 'ananke'
 SectionPagesMenu = "main"
 enableRobotsTXT = true
+[services]
+[services.disqus]
+shortname = 'andrew-meyer.com'
 [sitemap]
  chagefreq = "weekly"
  filename = "sitemap.xml"
