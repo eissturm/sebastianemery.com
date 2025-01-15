@@ -3,13 +3,22 @@ title = 'Paths of Constellara'
 date = 2025-01-05T13:37:46-05:00
 tags = ["Constellara", "science fiction", "space opera", "space fantasy", "shared universe"]
 +++
-Constellara is a shared-universe worldbuilding project between myself, Joenn Gillette, [Liv Savell](https://lsfables.com), and myself for our writing group's monthly short story competition. We perhaps got carried away and each plan to release stories in this living universe.
+Welcome to Constellara, a vibrant star cluster teeming with diverse life, advanced technology, and mystical powers. 
 
 ![draft constellara cover](/images/constellara/draft-constellara-cover.webp)
 
-## Introduction
-The stars of the Constellara Cluster are as varied as they are beautiful. Harsh desert planets that wear down sanity and civilization, oceanic worlds teeming with life and roiled by storms, tropical worlds of unfathomable diversity, metropolitan planets of unmatched wealth and prestige, and frozen tundra planets home only to scant, isolated outposts.
+The Pathways, ancient cosmic portals, connect the planets of Constellara. These mysterious gateways allow for interstellar travel, trade, and conflict.
 
-Some virgin worlds have never been touched by mortal civilization, while others have histories stretching back millenia. Some are peaceful centers of trade, others have known only war and strife. Some are ruled by tyrannical despots, others are bastions of democracy and enlightenment. On some planets, technology is hoarded as a means of control. On others it might be ubiquitous, or completely unknown.
+Explore the unique planets of Constellara, each with its own distinct civilizations, creatures, and challenges.
 
-But one factor unites them all: the Stellar Pathways. Once per year when the stars align, ancient cosmic gateways open up between the worlds of the Cluster, briefly allowing for travel, trade, and conflict. The origin of these Pathways is a mystery, but the Star Sages who study them surmise they may have been built by an ancient, now extinct species. If not for the Pathways, the stars of the Cluster would have no knowledge of each other and no way to communicate.
+Delve into the world of psionics, where individuals can manipulate physical laws with their minds. Telepathy, telekinesis, and teleportation are just a few of the powers psions wield.
+
+Discover the art of artifice, where technology and psionic forces intertwine. Artificers create extraordinary devices, weapons, and vehicles by harnessing exotic matter.
+
+Uncover the secrets of the ancients, a long-lost civilization that left behind remnants of their advanced technology across the cluster.
+
+Ready to embark on an interstellar adventure? Sign up for our newsletter and stay updated on the latest stories, lore, and artwork from the Constellara universe!
+
+---
+
+Constellara is a shared-universe worldbuilding project between myself, Joenn Gillette, [Liv Savell](https://lsfables.com), and myself.
