@@ -1,5 +1,5 @@
 # sebastianemery.com
-The online home for author Andrew Meyer
+The online home for author Sebastian Emery
 
 ## Development
 ### Setup

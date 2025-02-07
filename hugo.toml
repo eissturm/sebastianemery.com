@@ -1,6 +1,6 @@
 baseURL = 'https://sebastianemery.com/'
 languageCode = 'en-us'
-title = 'Andrew Meyer'
+title = 'Sebastian Emery'
 theme = 'ananke'
 SectionPagesMenu = "main"
 enableRobotsTXT = true

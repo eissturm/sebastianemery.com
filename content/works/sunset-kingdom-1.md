@@ -1,6 +1,6 @@
 +++
 title = 'Sunset Kingdom: Spring of Black Flowers'
-description = 'A novel by Andrew Meyer'
+description = 'A novel by Sebastian Emery'
 date = 2015-03-30T21:10:20-06:00
 tags = ["novel", "fantasy", "Sunset Kingdom"]
 +++

@@ -1,6 +1,6 @@
 +++
 title = 'sebastianemery.com'
-description = "The online home for author Andrew Meyer"
+description = "The online home for author Sebastian Emery"
 date = 2023-12-05T19:52:55-06:00
 +++
 
