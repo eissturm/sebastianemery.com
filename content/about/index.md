@@ -17,5 +17,5 @@ Andrew has been writing in fits and starts since he was a kid, but in spite of s
 
 ---
 
-Follow Andrew's [blog](https://andrew-meyer.com/blog), [BlueSky](https://bsky.app/profile/andrew-meyer.bsky.social), or [YouTube](https://www.youtube.com/@andrew-meyer-author) for the latest information. In-depth information, preview chapters, and more are available on this site.
-*Publicity and media inquiries: requests@andrew-meyer.com*
+Follow Andrew's [blog](https://sebastianemery.com/blog), [BlueSky](https://bsky.app/profile/andrew-meyer.bsky.social), or [YouTube](https://www.youtube.com/@andrew-meyer-author) for the latest information. In-depth information, preview chapters, and more are available on this site.
+*Publicity and media inquiries: requests@sebastianemery.com*

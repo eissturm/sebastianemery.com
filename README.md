@@ -1,4 +1,4 @@
-# andrew-meyer.com
+# sebastianemery.com
 The online home for author Andrew Meyer
 
 ## Development
@@ -19,7 +19,7 @@ The online home for author Andrew Meyer
 - [Hugo](https://gohugo.io/)
 
 ## Contact
-- [andrew-meyer.com](https://andrew-meyer.com)
+- [sebastianemery.com](https://sebastianemery.com)
 - [Twitter](https://twitter.com/andrewmeyer)
 
 ## Changelog
