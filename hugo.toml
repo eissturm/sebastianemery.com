@@ -6,7 +6,7 @@ SectionPagesMenu = "main"
 enableRobotsTXT = true
 [services]
 [services.disqus]
-shortname = 'andrew-meyer-com'
+shortname = 'sebastianemery-com'
 [sitemap]
  chagefreq = "weekly"
  filename = "sitemap.xml"

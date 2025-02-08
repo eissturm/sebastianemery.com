@@ -11,4 +11,4 @@ Set in the same world as Decemilia Verba and the Sunset Kingdom series.
 ## Status
 This didn't go well, and is kind of an unhinged mess. Starting a new, highly demanding job will do that to you. It will require heavy editing before I can release it.
 
-\- Andrew
+\- Sebastian
