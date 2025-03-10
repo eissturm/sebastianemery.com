@@ -21,4 +21,4 @@ Ready to embark on an interstellar adventure? Sign up for our newsletter and sta
 
 ---
 
-Constellara is a shared-universe worldbuilding project between myself, Joenn Gillette, [Liv Savell](https://lsfables.com), and myself.
+Constellara is a shared-universe worldbuilding project between myself, [J.A Gillette](https://www.authorjagillette.com/), [Liv Savell](https://lsfables.com), and myself.
