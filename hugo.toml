@@ -20,6 +20,6 @@ name = "Twitter"
 url = "https://bsky.app/profile/andrew-meyer.bsky.social"
 [[params.ananke_socials]]
 name = "patreon"
-url = "https://patreon.com/andrewmeyer"
+url = "https://patreon.com/sebastianemery"
 [markup.goldmark.renderer]
 unsafe = true
