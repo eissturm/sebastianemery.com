@@ -15,9 +15,5 @@ Henric Aldrimar is a boy of fourteen forced to shoulder the burden of an entire 
 
 *Spring of Black Flowers* was the first novel I wrote, and the possible first in a *Sunset Kingdom* series.
 
-## Status
-I'm pretty sure I forgot a chapter or two somewhere. There are parts that are good. I intend to release it here after an editing review.
-
-## Preview Chapters
-
-* [Preview 1](/posts/2015-spring-of-black-flowers-preview-1/)
+## Read Spring of Black Floewrs
+Spring of Black Flowers [Zero] is available to read on [Royal Road](https://www.royalroad.com/fiction/104544/spring-of-black-flowers-necromancer-epic-fantasy). I hope you'll check it out!
