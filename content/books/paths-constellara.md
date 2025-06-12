@@ -3,7 +3,7 @@ title = 'Paths of Constellara'
 date = 2025-01-05T13:37:46-05:00
 tags = ["Constellara", "science fiction", "space opera", "space fantasy", "shared universe"]
 +++
-Welcome to Constellara, a vibrant star cluster teeming with diverse life, advanced technology, and mystical powers. 
+Welcome to [Constellara](https://pathsofconstellara.com), a vibrant star cluster teeming with diverse life, advanced technology, and mystical powers. 
 
 ![draft constellara cover](/images/constellara/draft-constellara-cover.webp)
 
