@@ -5,7 +5,10 @@ tags = ["Constellara", "science fiction", "space opera", "space fantasy", "share
 +++
 Welcome to [Constellara](https://pathsofconstellara.com), a vibrant star cluster teeming with diverse life, advanced technology, and mystical powers. 
 
-![draft constellara cover](/images/constellara/draft-constellara-cover.webp)
+## Read Starchasers and the Sanctum of Ktheron Now
+The full text of the very first *Starchasers* adventure is available at [pathsofconstellara.com](https://pathsofconstellara.com/stories/the-starchasers-and-the-sanctum-of-ktheron)
+
+## About Constellara
 
 The Pathways, ancient cosmic portals, connect the planets of Constellara. These mysterious gateways allow for interstellar travel, trade, and conflict.
 
