@@ -15,4 +15,4 @@ tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
 
 ## Progress
 
-**[Alpha]**:  29000 / 100000 words (29%)
+**[Alpha]**:  60000 / 100000 words (60%)
