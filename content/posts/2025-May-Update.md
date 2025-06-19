@@ -1,5 +1,5 @@
 +++
-title = '2025 May Update'
+title = 'Monthly Update: May 2025'
 date = 2025-06-01T01:17:08-04:00
 +++
 Gosh I should set a reminder or something...
