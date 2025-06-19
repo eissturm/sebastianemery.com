@@ -12,15 +12,19 @@ shortname = 'sebastianemery-com'
  filename = "sitemap.xml"
  priority = 0.5
 
-[[params.ananke_socials]]
-name = "YouTube"
-url = "https://www.youtube.com/@sebastian-emery-author"
-[[params.ananke_socials]]
-name = "Twitter"
-url = "https://bsky.app/profile/andrew-meyer.bsky.social"
-[[params.ananke_socials]]
-name = "patreon"
-url = "https://patreon.com/sebastianemery"
+[params.ananke.social.follow]
+new_window_icon = false
+networks = [
+    "youtube",
+    "bluesky"
+]
+
+[params.ananke.social.youtube]
+username = "sebastian-emery-author"
+
+[params.ananke.social.bluesky]
+username = "sebastianemery.com"
+profilelink = "https://bsky.app/profile/sebastianemery.com"
 
 [markup.goldmark.renderer]
 unsafe = true
