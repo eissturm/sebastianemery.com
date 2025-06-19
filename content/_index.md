@@ -11,8 +11,8 @@ Welcome to my website! By day I am a technologist, by night a crafter of epic wo
 ## Crystal Empire 
 ***[To Chase Light [Alpha]](/books/crystal-empire/)***: 100000 / 100000 words (100%)
 
-***[Imperial Heart [Alpha]](/books/crystal-empire-2/)***: 60000 / 100000 words (60%)
+***[Imperial Heart [Alpha]](/books/crystal-empire-2/)***: 65000 / 100000 words (65%)
 
 ## Pathways of Constellara
 
-***[Junksea](/books/paths-constellara/)***: 1700 / 7000 (25%)
+***[Junksea](/books/paths-constellara/)***: 7400 / 7400 (100%)

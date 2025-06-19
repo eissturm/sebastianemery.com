@@ -11,8 +11,7 @@ tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
 *The Crystal Empire is an epic fantasy trilogy featuring compelling characters, adventure through a fantastic world, insidious intrigue, secrets lost to time, and spectacular magical crystal combat.*
 
 
-![Imperial Heart Cover](/images/DraftImperialHeartCover.png)
 
 ## Progress
 
-**[Alpha]**:  60000 / 100000 words (60%)
+**[Alpha]**:  65000 / 100000 words (65%)

@@ -12,8 +12,6 @@ tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
 
 *The Crystal Empire is an epic fantasy trilogy featuring compelling characters, adventure through a fantastic world, insidious intrigue, secrets lost to time, and spectacular magical crystal combat.*
 
-![To Chase Light Cover](/images/DraftToChaseLightCover.png)
-
 ## Progress
 
 **[Alpha]**: 100000 / 100000 words (100%)
