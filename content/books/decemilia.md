@@ -1,7 +1,7 @@
 +++
 title = 'Decemilia Verba'
 date = 2014-12-01T20:21:47-06:00
-tags = ["novella", "fantasy"]
+tags = ["novellette", "fantasy", "Free Fiction"]
 draft = true
 +++
 Ten thousand magical words are a listening experience unlike any other, if you can recite them perfectly. One of the only men who can is in the city for just one night, for just one performance that cannot be missed.

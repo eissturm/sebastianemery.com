@@ -8,8 +8,7 @@ Welcome to my website! By day I am a technologist, by night a crafter of epic wo
 
 # Works In Progress
 
-## Crystal Empire 
-***[To Chase Light [Alpha]](/books/crystal-empire/)***: 100000 / 100000 words (100%)
+## Crystal Empire
 
 ***[Imperial Heart [Alpha]](/books/crystal-empire-2/)***: 65000 / 100000 words (65%)
 
