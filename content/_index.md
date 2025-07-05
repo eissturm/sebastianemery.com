@@ -10,8 +10,4 @@ Welcome to my website! By day I am a technologist, by night a crafter of epic wo
 
 ## Crystal Empire
 
-***[Imperial Heart [Alpha]](/books/crystal-empire-2/)***: 65000 / 100000 words (65%)
-
-## Pathways of Constellara
-
-***[Junksea](/books/paths-constellara/)***: 7400 / 7400 (100%)
+***[Imperial Heart [Alpha]](/books/crystal-empire-2/)***: 73000 / 100000 words (73%)
