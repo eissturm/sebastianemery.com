@@ -5,16 +5,19 @@
   {{ else if or (eq .Section "blog") (eq .Section "posts") }}
     {{ $sectionClass = "section-blog" }}
   {{ end }}
+  {{ $paginator := .Paginate .Pages 6 }}
   <div class="{{ $sectionClass }}">
     <h1>{{ .Title }}</h1>
     {{ .Content }}
-    {{ range .Pages }}
+    {{ range $paginator.Pages }}
       <a href="{{ .RelPermalink }}" class="post-card-link" aria-label="Read {{ .LinkTitle }}">
         <div class="post-card">
           <h2>{{ .LinkTitle }}</h2>
+          <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
           {{ .Summary }}
         </div>
       </a>
     {{ end }}
   </div>
+  {{ template "_internal/pagination.html" . }}
 {{ end }}
