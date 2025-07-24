@@ -1,7 +1,9 @@
 {{ define "main" }}
   {{ .Content }}
+  {{ $allPages := where site.RegularPages "Section" "in" (slice "posts" "books") }}
+  {{ $paginator := .Paginate $allPages 5 }}
   <div class="homepage-cards">
-    {{ range site.RegularPages }}
+    {{ range $paginator.Pages }}
       <a href="{{ .RelPermalink }}" class="post-card-link" aria-label="Read {{ .LinkTitle }}">
         <div class="post-card">
           <h2>{{ .LinkTitle }}</h2>
@@ -11,4 +13,5 @@
       </a>
     {{ end }}
   </div>
+  {{ template "_internal/pagination.html" . }}
 {{ end }}
