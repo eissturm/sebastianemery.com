@@ -1,8 +1,20 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+  {{ $sectionClass := "section-default" }}
+  {{ if eq .Section "books" }}
+    {{ $sectionClass = "section-books" }}
+  {{ else if or (eq .Section "blog") (eq .Section "posts") }}
+    {{ $sectionClass = "section-blog" }}
   {{ end }}
+  <div class="{{ $sectionClass }}">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ range .Pages }}
+      <a href="{{ .RelPermalink }}" class="post-card-link" aria-label="Read {{ .LinkTitle }}">
+        <div class="post-card">
+          <h2>{{ .LinkTitle }}</h2>
+          {{ .Summary }}
+        </div>
+      </a>
+    {{ end }}
+  </div>
 {{ end }}
