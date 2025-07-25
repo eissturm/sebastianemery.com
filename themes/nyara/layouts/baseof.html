@@ -4,13 +4,22 @@
   {{ partial "head.html" . }}
 </head>
 <body>
-  <div class="container">
+  <div class="container with-sidebar">
     <header>
       {{ partial "header.html" . }}
     </header>
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
+    <div class="main-sidebar-wrap">
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+      <aside class="sidebar">
+        <div class="sidebar-section">
+          <h3>Subscribe</h3>
+          <div class="ml-embedded" data-form="tSZeij"></div>
+        </div>
+        <!-- Add more sidebar sections here as needed -->
+      </aside>
+    </div>
     <footer>
       {{ partial "footer.html" . }}
     </footer>

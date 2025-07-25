@@ -1,3 +1,7 @@
+[[main]]
+  name = "Free Fiction"
+  url = "/tags/free-fiction"
+  weight = 2
 
 [[main]]
   name = "Contact"

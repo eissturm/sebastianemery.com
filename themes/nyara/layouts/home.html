@@ -4,8 +4,14 @@
   {{ $paginator := .Paginate $allPages 5 }}
   <div class="homepage-cards">
     {{ range $paginator.Pages }}
+      {{ $sectionClass := "section-default" }}
+      {{ if eq .Section "books" }}
+        {{ $sectionClass = "section-books" }}
+      {{ else if eq .Section "posts" }}
+        {{ $sectionClass = "section-blog" }}
+      {{ end }}
       <a href="{{ .RelPermalink }}" class="post-card-link" aria-label="Read {{ .LinkTitle }}">
-        <div class="post-card">
+        <div class="post-card {{ $sectionClass }}">
           <h2>{{ .LinkTitle }}</h2>
           <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
           {{ .Summary }}
