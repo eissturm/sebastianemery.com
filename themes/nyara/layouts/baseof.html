@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <div class="container with-sidebar">
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+    <div class="main-sidebar-wrap">
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+      <aside class="sidebar">
+        <div class="sidebar-section">
+          <h3>Subscribe</h3>
+          <div class="ml-embedded" data-form="tSZeij"></div>
+        </div>
+        <!-- Add more sidebar sections here as needed -->
+      </aside>
+    </div>
+    <footer>
+      {{ partial "footer.html" . }}
+    </footer>
+  </div>
+</body>
+</html>
