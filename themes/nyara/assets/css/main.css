@@ -84,6 +84,7 @@ header h1 {
   display: block;
   margin: 0;
   object-fit: contain;
+  filter: grayscale(1) contrast(0);
 }
 
 @media (max-width: 600px) {
