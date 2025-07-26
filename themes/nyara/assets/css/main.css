@@ -8,6 +8,11 @@ body {
   background: #f7f7fa;
 }
 
+body.dark-mode {
+  background: #181a1b;
+  color: #e0e0e0;
+}
+
 .container {
   max-width: 700px;
   margin: 2rem auto 2rem auto;
@@ -15,6 +20,14 @@ body {
   border-radius: 12px;
   box-shadow: 0 2px 16px rgba(0,0,0,0.07);
   padding: 2rem 2.5rem;
+}
+
+body.dark-mode .container,
+body.dark-mode header,
+body.dark-mode footer {
+  background: #23272a;
+  color: #e0e0e0;
+  border-color: #23272a;
 }
 
 .container.with-sidebar {
@@ -48,6 +61,11 @@ main {
   align-self: flex-start;
 }
 
+body.dark-mode .sidebar {
+  background: #23272a;
+  color: #e0e0e0;
+}
+
 .sidebar-section + .sidebar-section {
   margin-top: 2.5rem;
 }
@@ -59,6 +77,11 @@ header {
   background: #fff;
   border-radius: 12px 12px 0 0;
   box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+}
+
+body.dark-mode header {
+  background: #23272a;
+  color: #e0e0e0;
 }
 
 header h1 {
@@ -85,6 +108,10 @@ header h1 {
   margin: 0;
   object-fit: contain;
   filter: grayscale(1) contrast(0);
+}
+
+body.dark-mode .site-logo {
+  filter: grayscale(1) brightness(1.2) contrast(1.2);
 }
 
 @media (max-width: 600px) {
@@ -146,6 +173,11 @@ footer {
   box-shadow: 0 -1px 4px rgba(0,0,0,0.03);
 }
 
+body.dark-mode footer {
+  background: #23272a;
+  color: #e0e0e0;
+}
+
 a {
   color: #0056b3;
   text-decoration: underline;
@@ -154,6 +186,13 @@ a {
 a:hover {
   color: #7a5cff;
   text-decoration: underline;
+}
+
+body.dark-mode a {
+  color: #7a5cff;
+}
+body.dark-mode a:hover {
+  color: #00b3d6;
 }
 
 img {
@@ -165,8 +204,19 @@ img {
   box-shadow: 0 1px 6px rgba(0,0,0,0.06);
 }
 
+body.dark-mode img {
+  box-shadow: 0 1px 6px rgba(0,0,0,0.25);
+}
+
+body.dark-mode .section-books .post-card {
+  background: #2d253a;
+  border-left: 5px solid #a48fff;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(164,143,255,0.10);
+}
+
 .section-books .post-card {
-  /*background: linear-gradient(90deg, #f9f6f2 60%, #e3e0ff 100%);*/
+  background: #f4f0fa;
   border-left: 5px solid #7a5cff;
   margin-bottom: 2rem;
   padding: 1.2rem 1.5rem;
@@ -174,8 +224,15 @@ img {
   box-shadow: 0 2px 8px rgba(122,92,255,0.06);
 }
 
+body.dark-mode .section-blog .post-card {
+  background: #232a33;
+  border-left: 5px solid #3ecfff;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(62,207,255,0.10);
+}
+
 .section-blog .post-card {
-  background: #f6faff;
+  background: #eaf3fa;
   border-left: 5px solid #00b3d6;
   margin-bottom: 2rem;
   padding: 1.2rem 1.5rem;
@@ -192,8 +249,34 @@ img {
   box-shadow: 0 2px 8px rgba(0,0,0,0.03);
 }
 
+body.dark-mode .section-default .post-card {
+  background: #23272a;
+  border-left: 5px solid #555;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+}
+
 .post-card h2 {
   margin-top: 0;
+}
+
+body.dark-mode .post-card h2,
+body.dark-mode .post-card h3,
+body.dark-mode .post-card h4,
+body.dark-mode .post-card p,
+body.dark-mode .post-card .post-card-date {
+  color: #fff;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4 {
+  color: #f3eaff;
+}
+
+body.dark-mode em,
+body.dark-mode i {
+  color: #e0cfff;
 }
 
 .post-card-date {
@@ -447,6 +530,12 @@ blockquote {
   border-radius: 6px;
 }
 
+body.dark-mode blockquote {
+  background: #23272a;
+  border-left: 4px solid #7a5cff;
+  color: #bdbdbd;
+}
+
 pre, code {
   font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', monospace;
   background: #f4f4f8;
@@ -461,6 +550,11 @@ pre {
 code {
   padding: 0.2em 0.4em;
   font-size: 0.97em;
+}
+
+body.dark-mode code, body.dark-mode pre {
+  background: #181a1b;
+  color: #e0e0e0;
 }
 
 strong {
