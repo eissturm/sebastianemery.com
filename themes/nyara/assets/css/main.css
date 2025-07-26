@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Montserrat:wght@700&display=swap');
+
 body {
   color: #222;
-  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.7;
   margin: 0;
   background: #f7f7fa;
@@ -63,6 +65,33 @@ header h1 {
   font-size: 2.2rem;
   margin: 0 0 0.5rem 0;
   letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 64px;
+}
+
+.logo-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.site-logo {
+  height: auto;
+  max-width: 50%;
+  width: 50%;
+  display: block;
+  margin: 0;
+  object-fit: contain;
+}
+
+@media (max-width: 600px) {
+  .site-logo {
+    max-width: 80%;
+    width: 80%;
+    height: auto;
+  }
 }
 
 nav ul {
@@ -83,13 +112,17 @@ nav a:hover, nav a.active {
   color: #0077cc;
 }
 
-main {
-  min-height: 60vh;
+main, .full-post, .section-default, .section-blog, .section-books {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1, h2, h3, h4 {
+  font-family: 'Montserrat', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
   color: #2a2a2a;
-  font-family: inherit;
   margin-top: 1.5rem;
   margin-bottom: 0.7rem;
 }
@@ -113,12 +146,12 @@ footer {
 }
 
 a {
-  color: #0077cc;
-  text-decoration: none;
+  color: #0056b3;
+  text-decoration: underline;
   transition: color 0.2s;
 }
 a:hover {
-  color: #005999;
+  color: #7a5cff;
   text-decoration: underline;
 }
 
@@ -207,7 +240,7 @@ img {
   padding: 2rem 2.5rem;
 }
 .section-blog .full-post,
-.single-blog .full-post,
+.single_blog .full-post,
 .single-posts .full-post {
   background: #f6faff;
   border-left: 5px solid #00b3d6;
@@ -400,6 +433,78 @@ form[role="form"] input[type="submit"]:focus {
   color: #fff;
   font-weight: 700;
   cursor: default;
+}
+
+/* Blockquote and code styling */
+blockquote {
+  border-left: 4px solid #7a5cff;
+  background: #f6f6fa;
+  color: #444;
+  font-style: italic;
+  margin: 1.5em 0;
+  padding: 1em 1.5em;
+  border-radius: 6px;
+}
+
+pre, code {
+  font-family: 'Fira Mono', 'Consolas', 'Menlo', 'Monaco', monospace;
+  background: #f4f4f8;
+  color: #2a2a2a;
+  border-radius: 4px;
+}
+pre {
+  padding: 1em 1.5em;
+  overflow-x: auto;
+  margin: 1.5em 0;
+}
+code {
+  padding: 0.2em 0.4em;
+  font-size: 0.97em;
+}
+
+strong {
+  font-weight: 700;
+  color: #222;
+}
+em {
+  font-style: italic;
+  color: #444;
+}
+.muted {
+  color: #888;
+  font-size: 0.97em;
+}
+.caption {
+  color: #888;
+  font-size: 0.92em;
+  display: block;
+  margin-top: 0.3em;
+  text-align: center;
+  letter-spacing: 0.01em;
+}
+
+/* List styles */
+ul, ol {
+  margin: 1.2em 0 1.2em 2em;
+  padding: 0;
+}
+ul {
+  list-style: disc inside;
+}
+ol {
+  list-style: decimal inside;
+}
+ul li, ol li {
+  margin-bottom: 0.5em;
+  line-height: 1.7;
+}
+ul li::marker {
+  color: #7a5cff;
+  font-size: 1.1em;
+}
+ol li::marker {
+  color: #00b3d6;
+  font-size: 1.1em;
 }
 
 /* Responsive adjustments */
