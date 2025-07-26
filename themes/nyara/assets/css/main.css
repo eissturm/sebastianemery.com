@@ -208,6 +208,13 @@ body.dark-mode img {
   box-shadow: 0 1px 6px rgba(0,0,0,0.25);
 }
 
+body.dark-mode .section-books .post-card {
+  background: #2d253a;
+  border-left: 5px solid #a48fff;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(164,143,255,0.10);
+}
+
 .section-books .post-card {
   background: #f4f0fa;
   border-left: 5px solid #7a5cff;
@@ -217,11 +224,11 @@ body.dark-mode img {
   box-shadow: 0 2px 8px rgba(122,92,255,0.06);
 }
 
-body.dark-mode .section-books .post-card {
-  background: #2d253a;
-  border-left: 5px solid #a48fff;
+body.dark-mode .section-blog .post-card {
+  background: #232a33;
+  border-left: 5px solid #3ecfff;
   color: #fff;
-  box-shadow: 0 2px 8px rgba(164,143,255,0.10);
+  box-shadow: 0 2px 8px rgba(62,207,255,0.10);
 }
 
 .section-blog .post-card {
@@ -231,13 +238,6 @@ body.dark-mode .section-books .post-card {
   padding: 1.2rem 1.5rem;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,179,214,0.06);
-}
-
-body.dark-mode .section-blog .post-card {
-  background: #232a33;
-  border-left: 5px solid #3ecfff;
-  color: #fff;
-  box-shadow: 0 2px 8px rgba(62,207,255,0.10);
 }
 
 .section-default .post-card {
@@ -265,6 +265,18 @@ body.dark-mode .post-card h4,
 body.dark-mode .post-card p,
 body.dark-mode .post-card .post-card-date {
   color: #fff;
+}
+
+body.dark-mode h1,
+body.dark-mode h2,
+body.dark-mode h3,
+body.dark-mode h4 {
+  color: #f3eaff;
+}
+
+body.dark-mode em,
+body.dark-mode i {
+  color: #e0cfff;
 }
 
 .post-card-date {

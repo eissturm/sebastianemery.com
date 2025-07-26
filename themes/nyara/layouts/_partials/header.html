@@ -3,7 +3,7 @@
     <img src="/images/se-transparent-logo.png" alt="Site Logo" class="site-logo" />
   </a>
   <button id="darkModeToggle" aria-label="Toggle dark mode" style="margin-left:1.5rem;padding:0.4em 1em;border-radius:6px;border:none;background:#ececff;color:#333;font-weight:600;cursor:pointer;box-shadow:0 1px 4px rgba(0,0,0,0.04);font-size:1rem;">
-    🌙 Night Mode
+    🌙 Night Mode (Experimental)
   </button>
 </h1>
 <script>
@@ -20,7 +20,7 @@
       document.body.classList.toggle('dark-mode');
       const isDark = document.body.classList.contains('dark-mode');
       localStorage.setItem('darkMode', isDark);
-      btn.textContent = isDark ? '☀️ Day Mode' : '🌙 Night Mode';
+      btn.textContent = isDark ? '☀️ Day Mode' : '🌙 Night Mode (Experimental)';
     });
   }
 })();
