@@ -1,6 +1,35 @@
-<h1>
+<h1 style="position: relative;">
   <a href="/" class="site-title-link logo-link">
     <img src="/images/se-transparent-logo.png" alt="Site Logo" class="site-logo" />
   </a>
+  <button id="menuToggle" aria-label="Open menu" style="display:none;position:absolute;top:1.5rem;right:1.5rem;background:none;border:none;font-size:2rem;color:#fff;z-index:10;">
+    &#9776;
+  </button>
 </h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<nav id="mainNav">
+  {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+</nav>
+<script>
+(function() {
+  var menuToggle = document.getElementById('menuToggle');
+  var mainNav = document.getElementById('mainNav');
+  function checkWidth() {
+    if(window.innerWidth <= 800) {
+      menuToggle.style.display = 'block';
+      mainNav.style.display = 'none';
+    } else {
+      menuToggle.style.display = 'none';
+      mainNav.style.display = 'block';
+    }
+  }
+  menuToggle.addEventListener('click', function() {
+    if(mainNav.style.display === 'block') {
+      mainNav.style.display = 'none';
+    } else {
+      mainNav.style.display = 'block';
+    }
+  });
+  window.addEventListener('resize', checkWidth);
+  document.addEventListener('DOMContentLoaded', checkWidth);
+})();
+</script>
