@@ -208,7 +208,7 @@ body.dark-mode img {
   box-shadow: 0 1px 6px rgba(0,0,0,0.25);
 }
 
-body.dark-mode .section-books .post-card {
+body.dark-mode .post-card .section-books {
   background: #2d253a;
   border-left: 5px solid #a48fff;
   color: #fff;
@@ -224,13 +224,6 @@ body.dark-mode .section-books .post-card {
   box-shadow: 0 2px 8px rgba(122,92,255,0.06);
 }
 
-body.dark-mode .section-blog .post-card {
-  background: #232a33;
-  border-left: 5px solid #3ecfff;
-  color: #fff;
-  box-shadow: 0 2px 8px rgba(62,207,255,0.10);
-}
-
 .section-blog .post-card {
   background: #eaf3fa;
   border-left: 5px solid #00b3d6;
@@ -238,6 +231,13 @@ body.dark-mode .section-blog .post-card {
   padding: 1.2rem 1.5rem;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,179,214,0.06);
+}
+
+body.dark-mode .post-card .section-blog{
+  background: #232a33;
+  border-left: 5px solid #3ecfff;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(62,207,255,0.10);
 }
 
 .section-default .post-card {
@@ -249,7 +249,7 @@ body.dark-mode .section-blog .post-card {
   box-shadow: 0 2px 8px rgba(0,0,0,0.03);
 }
 
-body.dark-mode .section-default .post-card {
+body.dark-mode .post-card .section-default {
   background: #23272a;
   border-left: 5px solid #555;
   box-shadow: 0 2px 8px rgba(0,0,0,0.10);
@@ -465,6 +465,13 @@ form[role="form"] input[type="submit"]:focus {
   box-shadow: 0 2px 8px rgba(122,92,255,0.06);
 }
 
+body.dark-mode .homepage-cards .post-card.section-books {
+  background: #2d253a;
+  border-left: 5px solid #a48fff;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(164,143,255,0.10);
+}
+
 .homepage-cards .post-card.section-blog {
   background: #f6faff;
   border-left: 5px solid #00b3d6;
@@ -474,6 +481,13 @@ form[role="form"] input[type="submit"]:focus {
   box-shadow: 0 2px 8px rgba(0,179,214,0.06);
 }
 
+body.dark-mode .homepage-cards .post-card.section-blog {
+  background: #232a33;
+  border-left: 5px solid #3ecfff;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(62,207,255,0.10);
+}
+
 .homepage-cards .post-card.section-default {
   background: #f8f8f8;
   border-left: 5px solid #bbb;
@@ -481,6 +495,12 @@ form[role="form"] input[type="submit"]:focus {
   padding: 1.2rem 1.5rem;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+
+body.dark-mode .homepage-cards .post-card.section-default {
+  background: #23272a;
+  border-left: 5px solid #555;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
 }
 
 /* Pagination styles */
