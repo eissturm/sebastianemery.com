@@ -66,6 +66,16 @@ nav a:hover, a:hover {
   color: var(--rebellion-white) !important;
 }
 
+.home-content img {
+  height: 200px;
+  margin: 0 0 0 2rem;
+  border-radius: 6px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.06);
+  vertical-align: middle;
+  order: 2;
+  float: right;
+}
+
 /* Prevent header from changing color on hover */
 header:hover {
   background: var(--imperial-violet);

@@ -2,6 +2,7 @@
 title = "Harbor Justice"
 date = 2014-12-25T22:05:25-06:00
 tags = ["short story", "fantasy", "epic fantasy", "Terinu Nights", "Dvor", "Free Fiction"]
+keywords = ["urban fantasy", "terinu", "justice", "short story", "holiday", "glyphlamps", "fiction", "cold night", "fantasy", "docks"]
 read_more_copy = "Read now - Full Text Online"
 draft = false
 +++

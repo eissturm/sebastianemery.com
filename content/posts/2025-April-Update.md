@@ -1,6 +1,7 @@
 +++
 title = 'Monthly Update: April 2025'
 date = 2025-04-30T00:00:00-00:00
+keywords = ["monthly update", "april 2025", "blog", "writing", "crystal empire", "life", "update", "legacy.exe", "cyberpunk", "patreon"]
 +++
 Weekly updates were not it. Sorry if you were excited about weekly updates, maybe they're something we can do in the future. For now, end-of-month updates will be the goal.
 

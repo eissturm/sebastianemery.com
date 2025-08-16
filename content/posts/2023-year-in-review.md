@@ -2,6 +2,7 @@
 title = '2023 Year in Review'
 date = 2023-12-23T07:47:00-06:00
 tags = ['blog', 'life']
+keywords = ["year in review", "2023", "blog", "writing", "life", "personal", "reflection", "crystal empire", "nanowrimo", "update"]
 +++
 Where to begin? What a year 2023 has been. A lot has happened, and I'm excited to catch you all up on everything.
 

@@ -2,6 +2,7 @@
 title = 'Spring of Black Flowers Chapter 1'
 date = 2015-07-29T15:49:11-04:00
 tags = ['Preview Chapter', 'fantasy', 'epic fantasy', 'Sunset Kingdom', 'Free Fiction']
+keywords = ["fantasy", "sunset kingdom", "spring of black flowers", "preview", "chapter", "epic fantasy", "adventure", "initiation", "aldirmar", "fiction"]
 +++
 
 ## Introduction

@@ -1,6 +1,7 @@
 +++
 title = 'Writer Blocked'
 date = 2023-12-21T16:56:03-06:00
+keywords = ["writer's block", "writing", "blog", "fiction", "progress", "motivation", "creativity", "productivity", "travel", "life"]
 +++
 Just keep writing.  Just keep writing.  Just keep writing.
 

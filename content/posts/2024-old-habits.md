@@ -2,6 +2,7 @@
 title = 'Old Habits'
 date = 2024-03-02T08:00:49-06:00
 tags = ["blog"]
+keywords = ["old habits", "blog", "writing", "personal", "overcommitment", "life", "minnesota", "reflection", "priorities", "update"]
 +++
 I did it again.
 

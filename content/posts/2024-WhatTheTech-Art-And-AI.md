@@ -2,6 +2,7 @@
 title = 'What the Tech? Art and Artificial Intelligence'
 date = 2024-01-07T16:20:00-06:00
 tags = ["blog", "technology", "AI", "art"]
+keywords = ["artificial intelligence", "AI", "art", "technology", "blog", "creativity", "automation", "security", "business", "trending topics"]
 +++
 
 > *Welcome to **What the Tech**, a series where we explore and make sense of technologies and trending topics impacting IT, Security, and Business.*

@@ -2,6 +2,7 @@
 title = 'The Process'
 date = 2024-07-27T21:58:08-04:00
 tags = ["blog", "writing"]
+keywords = ["writing process", "blog", "motivation", "success", "creativity", "planning", "book", "fiction", "automation", "reflection"]
 +++
 
 Writing is hard. Not in the way that manual labor is hard, or even in the way that a puzzle or a level in a video game can be hard. Instead, writing is hard like getting in shape is hard, like therapy is hard, like your job is hard. Sometimes success pours out of you, and others you can't get even the simplest of results. You get stuck, and making progress might as well be impossible. And yet in all of these things there are people who do them every day, succeeding consistently where you most often fail. How? What separates success from failure?

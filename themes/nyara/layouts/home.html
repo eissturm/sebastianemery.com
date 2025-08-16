@@ -1,5 +1,7 @@
 {{ define "main" }}
-  {{ .Content }}
+  <div class="home-content">
+    {{ .Content }}
+  </div>
   {{ $allPages := where site.RegularPages "Section" "in" (slice "posts" "books") }}
   {{ $paginator := .Paginate $allPages 5 }}
   <div class="homepage-cards">
