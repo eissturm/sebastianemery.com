@@ -2,6 +2,7 @@
 title = 'The Crystal Empire Preview: Chapter 1'
 date = 2024-03-15T09:25:00-04:00
 tags = ["Preview Chapter", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
+keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "chapter 1", "demara", "fringe", "fiction", "high fantasy", "free fiction"]
 +++
 
 ## Introduction

@@ -1,6 +1,7 @@
 +++
 title = 'Monthly Update: May 2025'
 date = 2025-06-01T01:17:08-04:00
+keywords = ["monthly update", "may 2025", "blog", "writing", "crystal empire", "starchasers", "progress", "life", "update"]
 +++
 Gosh I should set a reminder or something...
 

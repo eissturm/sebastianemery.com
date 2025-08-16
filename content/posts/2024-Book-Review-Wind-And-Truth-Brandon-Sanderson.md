@@ -3,6 +3,7 @@ title = '2024 Book Review Wind and Truth Brandon Sanderson'
 date = 2025-01-07T00:39:22-05:00
 draft = true
 tags = ['book review', 'fantasy', 'epic fantasy', 'Cosmere', 'Stormlight Archive']
+keywords = ["book review", "wind and truth", "brandon sanderson", "stormlight archive", "cosmere", "fantasy", "epic fantasy", "pre-release", "spoilers"]
 +++
 I'm going to surprise myself and say that *Wind and Truth* the fifth installment of Brandon Sanderson's fantasy epic *Stormlight Archive* was not my favorite book this year. I fully expected it to be, though I can't fault this book for *Some Desperate Glory* existing in the same year.
 

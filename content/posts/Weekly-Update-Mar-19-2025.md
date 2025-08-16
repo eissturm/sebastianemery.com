@@ -1,6 +1,7 @@
 +++
 title = 'Weekly Update: March 19, 2025'
 date = 2025-03-20T06:29:48-04:00
+keywords = ["weekly update", "march 2025", "blog", "writing", "crystal empire", "imperial heart", "constellara", "progress", "fiction", "update"]
 +++
 Between a busy day job and some sick toddlers, finding the time to write's been harder the past few weeks. Luckily, the words are flowing in the time I've been able to carve out.
 

@@ -2,6 +2,7 @@
 title = '2025 July Update'
 date = 2025-07-31T10:30:00-04:00
 tags = ["blog","progress","Crystal Empire"]
+keywords = ["july 2025", "monthly update", "blog", "crystal empire", "imperial heart", "progress", "travel", "family", "constellara", "writing"]
 +++
 
 Another month come and gone. July moved quickly, unlike [*Imperial Heart*](/books/crystal-empire-2), which is now at 80% complete on its first draft. The book is really shaping up. I think its some of my best work yet. While I'm behind my goals, it's definitely rounding the final stretch!

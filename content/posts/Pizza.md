@@ -1,6 +1,7 @@
 +++
 title = 'Pizza'
 date = 2023-12-06T18:28:50-06:00
+keywords = ["pizza", "food", "recipe", "homemade", "cooking", "dough", "sauce", "cheese", "tips", "kitchen"]
 +++
 I make some pretty good pizza. It's taken a couple years to get it right, but I think we've got it down now. If you're thinking about trying to make pizza at home, here are some tips, tricks, and advice for you to consider as you embark on this most excellent pursuit.
 
