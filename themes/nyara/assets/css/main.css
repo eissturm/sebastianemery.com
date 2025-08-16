@@ -561,7 +561,7 @@ form[role="form"] input[type="submit"]:focus {
 
 /* Blockquote and code styling */
 blockquote {
-  border-left: 4px solid #7a5cff;
+  border-left: 4px solid var(--accent-gold);
   background: #f6f6fa;
   color: #444;
   font-style: italic;
