@@ -1,5 +1,5 @@
 +++
-title = 'The Crystal Empire Preview 4'
+title = 'The Crystal Empire Preview: Chapter 20'
 date = 2024-06-21T20:39:24-04:00
 tags = ["Preview Chapter", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
 draft = true
