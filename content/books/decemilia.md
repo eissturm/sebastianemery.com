@@ -10,6 +10,9 @@ This award winning novella is a story of magic, music, and the power of what wor
 
 Decemilia Verba won the r/FantasyWriters monthly short story contest in November 2014, and was featured in the *Champions* Anthology collected and edited by Alex S. Bradshaw. 
 
+![Decemilia Verba Cover](/images/Decemilia-Verba-Cover.png)
+> The cover of Decemilia's e-book release, available as a gift for joining my newsletter
+
 ## Praise for *Decemilia Verba*
 
 > "...Here, read a tale you will recall five years from now, as you stand someplace dull and consider the faces of strangers and see ordinary souls transformed to players in a grand heroic epic, each a hero to the music they almost catch… *Decimilia Verba*."

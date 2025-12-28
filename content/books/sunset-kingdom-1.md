@@ -7,7 +7,7 @@ tags = ["novel", "fantasy", "Sunset Kingdom", "Free Fiction"]
 
 *Available free on [RoyalRoad](https://www.royalroad.com/fiction/104544/spring-of-black-flowers-necromancer-epic-fantasy) and [Wattpad](https://www.wattpad.com/myworks/397647651-spring-of-black-flowers-necromancer-epic-fantasy)*
 
-![Spring of Black Flowers](/images/spring-of-black-flowers-cover.png)
+![Spring of Black Flowers](/images/sobf-zero-Cover.png)
 
 To the west, at the edges of the known world, lies Erazel, the Sunset Kingdom. A lone beacon of civilization in the wild barbarian lands of a once great empire, though many fear the kingdom's time has come. The royal line of Chalent has extinguished itself in a blood feud with one of their former vassals turned royal rivals, House Aldrimar, who themselves are on the verge of falling apart.
 

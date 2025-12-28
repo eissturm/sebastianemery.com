@@ -30,3 +30,5 @@ After six month’s chasing “psionic sensations” there had better be. They�
 ---
 
 The full text of Starchasers and the Sactum of Ktheron is available at [pathsofconstellara.com](https://pathsofconstellara.com/stories/the-starchasers-and-the-sanctum-of-ktheron) website.
+
+[![sanctum of ktheron cover](/images/SanctumOfKtheronCoverDraft.png)](https://pathsofconstellara.com/stories/the-starchasers-and-the-sanctum-of-ktheron)
