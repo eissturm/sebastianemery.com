@@ -20,7 +20,7 @@ The online home for author Sebastian Emery
 
 ## Contact
 - [sebastianemery.com](https://sebastianemery.com)
-- [Twitter](https://twitter.com/andrewmeyer)
+- [Bluesky](https://bsky.app/profile/sebastianemery.com)
 
 ## Changelog
 ### 1.0.0
