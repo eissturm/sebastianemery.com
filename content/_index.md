@@ -16,6 +16,8 @@ Welcome to my website! By day I am a technologist, by night a crafter of epic wo
 
 **[Book 1: To Chase Light [Alpha]](/books/crystal-empire)**: 105000 / 100000 words (105%) - Read the [Prologue](/posts/2024-crystal-empire-preview-1/)
 
-**[Book 2: Imperial Heart [Alpha]](/books/crystal-empire-2/)**: 83000 / 100000 words (83%)
+**[Book 2: Imperial Heart [Alpha]](/books/crystal-empire-2/)**: 125000 / 100000 words (125%)
+
+**[Book 3: The Final Turning [Alpha]](/books/crystal-empire-3/)**: 0 / 120000 words (0%)
 
 Become an **Alpha reader** by signing up on [Patreon](https://www.patreon.com/c/sebastianemery)

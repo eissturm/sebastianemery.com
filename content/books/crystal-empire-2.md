@@ -16,6 +16,6 @@ tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
 
 ## Progress
 
-**[ALPHA]**:  83000 / 100000 words (83%)
+**[ALPHA]**:  125000 / 100000 words (125%)
 
 Become an **Alpha reader** by signing up on [Patreon](https://www.patreon.com/c/sebastianemery)
