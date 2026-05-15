@@ -5,14 +5,17 @@
   {{ else if or (eq .Section "blog") (eq .Section "posts") }}
     {{ $sectionClass = "section-blog" }}
   {{ end }}
-  <div class="full-post {{ $sectionClass }}">
-    <h1>{{ .Title }}</h1>
-
-    {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-    {{ $dateHuman := .Date | time.Format ":date_long" }}
-    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
-    {{ .Content }}
-    {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+  <div class="prose-shell {{ $sectionClass }}">
+    <article class="prose-body">
+      <h1>{{ .Title }}</h1>
+      {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+      {{ $dateHuman := .Date | time.Format ":date_long" }}
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      {{ .Content }}
+      {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+    </article>
+    <div class="prose-subscribe">
+      <div class="ml-embedded" data-form="tSZeij"></div>
+    </div>
   </div>
 {{ end }}

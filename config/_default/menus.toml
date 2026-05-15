@@ -1,4 +1,9 @@
 [[main]]
+  name = "Books"
+  url = "/books/"
+  weight = 1
+
+[[main]]
   name = "Free Fiction"
   url = "/tags/free-fiction"
   weight = 2

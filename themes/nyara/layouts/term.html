@@ -1,23 +1,27 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ $paginator := .Paginate .Pages 6 }}
-  <div class="homepage-cards">
-    {{ range $paginator.Pages }}
-      {{ $sectionClass := "section-default" }}
-      {{ if eq .Section "books" }}
-        {{ $sectionClass = "section-books" }}
-      {{ else if eq .Section "posts" }}
-        {{ $sectionClass = "section-blog" }}
-      {{ end }}
-      <a href="{{ .RelPermalink }}" class="post-card-link" aria-label="Read {{ .LinkTitle }}">
-        <div class="post-card {{ $sectionClass }}">
+  <div class="section-shell">
+    <div class="section-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Content }}<div class="section-intro">{{ . }}</div>{{ end }}
+    </div>
+    {{ $paginator := .Paginate .Pages 12 }}
+    <div class="editorial-grid">
+      {{ range $paginator.Pages }}
+        {{ $sectionClass := "section-default" }}
+        {{ if eq .Section "books" }}
+          {{ $sectionClass = "section-books" }}
+        {{ else if eq .Section "posts" }}
+          {{ $sectionClass = "section-blog" }}
+        {{ end }}
+        <article class="post-card {{ $sectionClass }} post-card-link">
+          <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
+          <span class="card-section-tag">{{ if eq .Section "books" }}Book{{ else }}Post{{ end }}</span>
           <h2>{{ .LinkTitle }}</h2>
           <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-          {{ .Summary }}
-        </div>
-      </a>
-    {{ end }}
+          <p class="card-summary">{{ .Summary }}</p>
+        </article>
+      {{ end }}
+    </div>
+    {{ template "_internal/pagination.html" . }}
   </div>
-  {{ template "_internal/pagination.html" . }}
 {{ end }}

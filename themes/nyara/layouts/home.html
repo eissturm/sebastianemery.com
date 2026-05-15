@@ -1,25 +1,88 @@
 {{ define "main" }}
-  <div class="home-content">
-    {{ .Content }}
+  <div class="home-intro">
+    <div class="home-intro-wip">
+      {{ .Content }}
+    </div>
+    <div class="home-intro-side">
+      <div class="home-newsletter">
+        <h3>Stay in the Loop</h3>
+        <p>New chapters, release news, and the occasional peek behind the curtain — delivered straight to you. The best way to follow along as these worlds unfold.</p>
+        <div class="ml-embedded" data-form="tSZeij"></div>
+      </div>
+    </div>
   </div>
-  {{ $allPages := where site.RegularPages "Section" "in" (slice "posts" "books") }}
-  {{ $paginator := .Paginate $allPages 5 }}
-  <div class="homepage-cards">
-    {{ range $paginator.Pages }}
-      {{ $sectionClass := "section-default" }}
-      {{ if eq .Section "books" }}
-        {{ $sectionClass = "section-books" }}
-      {{ else if eq .Section "posts" }}
-        {{ $sectionClass = "section-blog" }}
-      {{ end }}
-      <a href="{{ .RelPermalink }}" class="post-card-link" aria-label="Read {{ .LinkTitle }}">
-        <div class="post-card {{ $sectionClass }}">
-          <h2>{{ .LinkTitle }}</h2>
+
+  {{ $allPages := where site.RegularPages "Section" "books" }}
+  {{ $paginator := .Paginate $allPages 10 }}
+
+  <div class="section-divider"><span>Latest Works</span></div>
+
+  {{ if not $paginator.HasPrev }}
+
+    {{/* ── Featured hero card ── */}}
+    {{ with index $paginator.Pages 0 }}
+      {{ $sClass := "section-default" }}
+      {{ if eq .Section "books" }}{{ $sClass = "section-books" }}{{ end }}
+      {{ if eq .Section "posts" }}{{ $sClass = "section-blog" }}{{ end }}
+      {{ $label := "Post" }}
+      {{ if eq .Section "books" }}{{ $label = "Book" }}{{ end }}
+      <article class="hero-card {{ $sClass }} hero-card-link post-card-link">
+        <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
+        <div class="hero-card-body">
+          <span class="featured-label">{{ $label }}</span>
+          <h2 class="hero-title">{{ .LinkTitle }}</h2>
           <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-          {{ .Summary }}
+          <p class="hero-summary">{{ .Summary }}</p>
+          <span class="hero-cta">Read &rarr;</span>
         </div>
-      </a>
+        <div class="hero-nebula" aria-hidden="true"></div>
+      </article>
     {{ end }}
+
+    {{/* ── Editorial grid of remaining posts ── */}}
+    {{ if gt (len $paginator.Pages) 1 }}
+      <div class="editorial-grid">
+        {{ range after 1 $paginator.Pages }}
+          {{ $sClass := "section-default" }}
+          {{ if eq .Section "books" }}{{ $sClass = "section-books" }}{{ end }}
+          {{ if eq .Section "posts" }}{{ $sClass = "section-blog" }}{{ end }}
+          <article class="post-card {{ $sClass }} post-card-link">
+            <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
+            <span class="card-section-tag">{{ if eq .Section "books" }}Book{{ else }}Post{{ end }}</span>
+            <h2>{{ .LinkTitle }}</h2>
+            <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            <p class="card-summary">{{ .Summary }}</p>
+          </article>
+        {{ end }}
+      </div>
+    {{ end }}
+
+  {{ else }}
+
+    {{/* ── Page 2+: full editorial grid ── */}}
+    <div class="editorial-grid">
+      {{ range $paginator.Pages }}
+        {{ $sClass := "section-default" }}
+        {{ if eq .Section "books" }}{{ $sClass = "section-books" }}{{ end }}
+        {{ if eq .Section "posts" }}{{ $sClass = "section-blog" }}{{ end }}
+        <article class="post-card {{ $sClass }} post-card-link">
+          <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
+            <span class="card-section-tag">{{ if eq .Section "books" }}Book{{ else }}Post{{ end }}</span>
+            <h2>{{ .LinkTitle }}</h2>
+            <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            <p class="card-summary">{{ .Summary }}</p>
+          </article>
+      {{ end }}
+    </div>
+
+  {{ end }}
+
+  {{/* ── Subscribe band ── */}}
+  <div class="subscribe-band">
+    <div class="subscribe-band-inner">
+      <div class="ml-embedded" data-form="tSZeij"></div>
+    </div>
   </div>
+
   {{ template "_internal/pagination.html" . }}
 {{ end }}

@@ -2,7 +2,6 @@ baseURL = 'https://sebastianemery.com/'
 languageCode = 'en-us'
 title = 'Sebastian Emery'
 theme = 'nyara'
-SectionPagesMenu = "main"
 enableRobotsTXT = true
 [services]
 [services.disqus]

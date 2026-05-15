@@ -3,26 +3,17 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body>
-  <div class="container with-sidebar">
-    <header>
-      {{ partial "header.html" . }}
-    </header>
-    <div class="main-sidebar-wrap">
-      <main>
-        {{ block "main" . }}{{ end }}
-      </main>
-      <aside class="sidebar">
-        <div class="sidebar-section">
-          <h3>Subscribe</h3>
-          <div class="ml-embedded" data-form="tSZeij"></div>
-        </div>
-        <!-- Add more sidebar sections here as needed -->
-      </aside>
-    </div>
-    <footer>
-      {{ partial "footer.html" . }}
-    </footer>
+<body class="{{ if .IsHome }}is-home{{ end }}{{ with .Section }} section-{{ . }}{{ end }}">
+  <header>
+    {{ partial "header.html" . }}
+  </header>
+  <div class="page-content">
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
   </div>
+  <footer>
+    {{ partial "footer.html" . }}
+  </footer>
 </body>
 </html>
