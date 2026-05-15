@@ -42,7 +42,9 @@ body {
 header {
   position: relative;
   width: 100%;
-  background: linear-gradient(180deg, #06100A 0%, #091814 50%, #0C1E28 100%);
+  background:
+    linear-gradient(180deg, rgba(6, 16, 10, 0.80) 0%, rgba(9, 24, 20, 0.72) 50%, rgba(12, 30, 40, 0.88) 100%),
+    url('/images/header-bg.jpg') center 48% / cover no-repeat;
   color: var(--text-primary);
   border-bottom: 1px solid rgba(46, 180, 130, 0.55);
   padding: 2.8rem 2.5rem 4rem;

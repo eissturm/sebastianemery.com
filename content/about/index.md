@@ -3,19 +3,20 @@ title = 'About'
 date = 2023-12-05T19:58:20-06:00
 menu = "main"
 +++
-Sebastian Emery lives in St Petersburg, Fl with his wife and family. By day, he is a technologist and high tech consultant, by night a crafter of fantastical worlds and events.
+Sebastian Emery is a speculative fiction writer based in St. Petersburg, Florida, who has been building imaginary worlds since long before he had the craft to do them justice. He is currently fixing that.
 
 ![Sebastian Emery](/images/andrew-meyer.jpg)
 
-## Biography
+He came to books early and stayed. The ones that mattered were always the strange ones — the ones where the world had no business working the way it did, but somehow felt more real for it. His first attempts at writing followed shortly after, including several ideas from that era he describes, generously, as "probably best lost."
 
-Born on a snowy day in late 1990, Sebastian Emery was raised in the Twin Cities of Minnesota. As a child, he was a voracious reader, devouring just about everything handed to him, but delighting most in the wild and the speculative. Series like *Harry Potter*, *Animorphs*, *The Seventh Tower*, and *Dragon Ball Z* making up the early canon. As time went on, Tolkein, Adams, Asimov, and many more were added into rotation. Some of Sebastian's earliest ideas originate from this time, but "it may be best those are lost."
+By day, Sebastian works in technology consulting. It pays well and occasionally inspires something. The writing is what he actually cares about.
 
-In 2009, he occasionally attended the Winona State University where he supposedly studied Computer Science and Mathematics. When not attending classes or annoying the girls on campus, he was making his first real attempt at this writing thing. Though he didn't graduate, by 2015 he began a career in technology consulting and has worked for a variety of companies in the Twin Cities area and beyond. This didn't leave him much time for writing, though several short stories and an early novel still survive from this era. This is also around the time he met his wife, Liz, marrying in 2018. They now have two children together.
+His current project is the **Crystal Empire** trilogy: an epic fantasy following Demara, a woman fighting to save her people in a world that ends every year. What started as one very ambitious novel — roughly 300,000 words by first draft — became three books in early 2025 when Sebastian ran the math and accepted reality. He writes character-driven speculative fiction set in lived-in worlds where the speculative details aren't just backdrop; they're the engine the story runs on.
 
-Sebastian has been writing in fits and starts since he was a kid, but in spite of some attempts in and after college, only recently began to pursue it as a career. His professional career as a technologist and consultant has provided a discipline approach to writing on top of the constant inspiration from travel and exposure to new technologies. He is currently working on his third novel, a standalone epic fantasy story featuring diverse group of characters and their struggle to save a world that was broken long ago. 
+He is also one of the co-creators of [Paths of Constellara](https://pathsofconstellara.com/authors) — a collaborative science fiction shared universe built with two fellow authors. Set in a star cluster connected by ancient interstellar portals, it's a playground for space opera, psionics, and the kind of worldbuilding that keeps getting bigger the longer you look at it. Stories from the universe, including the full text of *Starchasers and the Sanctum of Ktheron*, are available to read now.
+
+He lives in St. Petersburg with his wife and two children, who have so far declined to read his drafts. Because they're toddlers.
 
 ---
 
-Follow Sebastian's [blog](https://sebastianemery.com/blog), [BlueSky](https://bsky.app/profile/andrew-meyer.bsky.social), or [YouTube](https://www.youtube.com/@andrew-meyer-author) for the latest information. In-depth information, preview chapters, and more are available on this site.
-*Publicity and media inquiries: requests@sebastianemery.com*
+*[Free fiction](/tags/free-fiction/) and [preview chapters](/tags/preview-chapter/) are available on this site. Publicity and media inquiries: requests@sebastianemery.com*
