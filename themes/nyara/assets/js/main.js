@@ -21,7 +21,8 @@
       stars = [];
       const density = Math.floor((W * H) / 2800);
       for (let i = 0; i < density; i++) {
-        const isGold = Math.random() < 0.11;
+        // 0=cool white star, 1=warm gold, 2=green firefly
+        const kind = Math.random() < 0.10 ? 1 : Math.random() < 0.08 ? 2 : 0;
         const isBright = Math.random() < 0.15;
         stars.push({
           x: Math.random() * W,
@@ -31,7 +32,7 @@
           amp:  Math.random() * 0.4  + 0.1,
           freq: Math.random() * 0.014 + 0.003,
           phase: Math.random() * Math.PI * 2,
-          gold: isGold,
+          kind,
           bright: isBright,
         });
       }
@@ -52,9 +53,11 @@
         // Core dot
         ctx.beginPath();
         ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
-        ctx.fillStyle = s.gold
-          ? `rgba(255,209,102,${lum * 0.92})`
-          : `rgba(220,210,255,${lum * 0.88})`;
+        ctx.fillStyle = s.kind === 1
+          ? `rgba(212,168,50,${lum * 0.88})`   // gold
+          : s.kind === 2
+          ? `rgba(91,200,140,${lum * 0.80})`   // green firefly
+          : `rgba(200,220,210,${lum * 0.80})`; // cool white
         ctx.fill();
 
         // Glow halo for brighter stars
@@ -62,9 +65,11 @@
           const glow = (lum - 0.55) * 2;
           ctx.beginPath();
           ctx.arc(s.x, s.y, s.r * 3.5, 0, Math.PI * 2);
-          ctx.fillStyle = s.gold
-            ? `rgba(255,209,102,${glow * 0.18})`
-            : `rgba(123,82,200,${glow * 0.14})`;
+          ctx.fillStyle = s.kind === 1
+            ? `rgba(212,168,50,${glow * 0.18})`
+            : s.kind === 2
+            ? `rgba(58,140,88,${glow * 0.22})`
+            : `rgba(58,127,100,${glow * 0.14})`;
           ctx.fill();
         }
       }
@@ -156,7 +161,6 @@
 
   /* ── Boot ───────────────────────────────────────────────── */
   document.addEventListener('DOMContentLoaded', () => {
-    initStarfield();
     initScrollHeader();
     initCardAnimations();
     initActiveNav();
