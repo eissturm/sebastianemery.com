@@ -1,21 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Lora:ital,wght@0,400;0,500;1,400;1,500&display=swap');
 
-/* ── Ocean-World Palette ────────────────────────────────── */
+/* ── Cover Palette: Forest + Ocean + Gold ───────────────── */
 :root {
-  --void-black:      #0A1628;   /* dark navy — meaningfully lighter than before */
-  --deep-space:      #0E1E34;   /* ocean deep */
-  --card-surface:    #111E30;   /* navy card surface */
-  --card-border:     rgba(58, 159, 200, 0.32);
-  --imperial-violet: #1A3D5C;   /* deep ocean blue */
-  --violet-bright:   #2ECC71;   /* vivid emerald — books/nature accent */
+  --void-black:      #090F0D;   /* very dark forest-green base */
+  --deep-space:      #0D1C18;   /* dark teal-forest */
+  --card-surface:    #101E1A;   /* deep forest card surface */
+  --card-border:     rgba(46, 180, 130, 0.32);  /* teal-green border */
+  --imperial-violet: #1A3D2C;   /* deep forest green */
+  --violet-bright:   #2ECC71;   /* vivid emerald */
   --nebula-cyan:     #3ED4B0;   /* vivid teal */
   --star-gold:       #F2C842;   /* bright gold */
   --accent-gold:     #E8A820;   /* warm amber */
   --warrior-red:     #C44A3A;
-  --crystal-blue:    #4DB8E8;   /* vivid sky blue — primary blue accent */
-  --text-primary:    #E8F0F8;   /* cool blue-white */
-  --text-secondary:  #9BBDD4;   /* blue-grey */
-  --text-muted:      #4A6888;   /* blue-slate */
+  --crystal-blue:    #4DB8E8;   /* vivid sky blue */
+  --text-primary:    #E8F4EE;   /* warm green-white */
+  --text-secondary:  #96C4AE;   /* muted sage */
+  --text-muted:      #5A9E88;   /* readable teal-grey */
 }
 
 /* ── Reset ──────────────────────────────────────────────── */
@@ -25,10 +25,10 @@
 body {
   background-color: var(--void-black);
   background-image:
-    radial-gradient(ellipse 80% 60% at 15% 40%, rgba(20, 80, 160, 0.45) 0%, transparent 65%),
-    radial-gradient(ellipse 65% 75% at 85% 65%, rgba(15, 120, 200, 0.38) 0%, transparent 60%),
-    radial-gradient(ellipse 40% 40% at 62% 8%,  rgba(46, 180, 110, 0.20) 0%, transparent 55%),
-    radial-gradient(ellipse 30% 35% at 50% 98%, rgba(242, 200, 66, 0.09) 0%, transparent 55%);
+    radial-gradient(ellipse 75% 65% at 10% 55%, rgba(20, 160, 80,  0.42) 0%, transparent 62%),
+    radial-gradient(ellipse 60% 70% at 88% 55%, rgba(15, 120, 200, 0.42) 0%, transparent 58%),
+    radial-gradient(ellipse 50% 50% at 50% 0%,  rgba(46, 180, 110, 0.22) 0%, transparent 55%),
+    radial-gradient(ellipse 35% 35% at 55% 100%,rgba(242, 200, 66, 0.12) 0%, transparent 55%);
   background-attachment: fixed;
   color: var(--text-primary);
   font-family: 'Lora', Georgia, 'Times New Roman', serif;
@@ -42,9 +42,9 @@ body {
 header {
   position: relative;
   width: 100%;
-  background: linear-gradient(180deg, #061018 0%, #0A1828 65%, #0F2038 100%);
+  background: linear-gradient(180deg, #06100A 0%, #091814 50%, #0C1E28 100%);
   color: var(--text-primary);
-  border-bottom: 1px solid rgba(77, 184, 232, 0.50);
+  border-bottom: 1px solid rgba(46, 180, 130, 0.55);
   padding: 2.8rem 2.5rem 4rem;
 }
 
@@ -53,23 +53,14 @@ header::before {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse 65% 80% at 88% 130%, rgba(30, 130, 210, 0.32) 0%, transparent 55%),
-    radial-gradient(ellipse 45% 60% at 12% -20%, rgba(46, 184, 232, 0.22) 0%, transparent 55%),
-    radial-gradient(ellipse 30% 30% at 50% 50%, rgba(240, 200, 60, 0.06) 0%, transparent 70%);
+    radial-gradient(ellipse 60% 80% at 90% 120%, rgba(30, 130, 210, 0.35) 0%, transparent 55%),
+    radial-gradient(ellipse 50% 65% at 10% -10%, rgba(46, 204, 90,  0.32) 0%, transparent 55%),
+    radial-gradient(ellipse 30% 30% at 50% 50%,  rgba(242, 200, 60, 0.08) 0%, transparent 70%);
   z-index: 1;
   pointer-events: none;
 }
 
 header > * { position: relative; z-index: 2; }
-
-.header-diagonal {
-  position: absolute;
-  bottom: 0; left: 0;
-  width: 100%; height: 52px;
-  z-index: 3;
-  pointer-events: none;
-  display: block;
-}
 
 header h1 {
   font-family: 'Spectral', serif;
@@ -84,9 +75,10 @@ header h1 {
   justify-content: center;
   min-height: 60px;
   text-shadow:
-    0 0 40px rgba(77, 184, 232, 0.65),
-    0 0 80px rgba(30, 130, 210, 0.40),
-    0 2px 4px rgba(0, 0, 0, 0.8);
+    0 0 40px rgba(62, 212, 176, 0.60),
+    0 0 80px rgba(77, 184, 232, 0.35),
+    0 0 120px rgba(46, 204, 90, 0.25),
+    0 2px 4px rgba(0, 0, 0, 0.9);
 }
 
 /* ── Logo ───────────────────────────────────────────────── */
@@ -106,12 +98,12 @@ header h1 {
   display: block;
   margin: 0 auto;
   object-fit: contain;
-  filter: brightness(1.05) drop-shadow(0 0 16px rgba(77, 184, 232, 0.55));
+  filter: brightness(1.05) drop-shadow(0 0 18px rgba(62, 212, 176, 0.55));
   transition: filter 0.4s ease;
 }
 
 .site-logo:hover {
-  filter: brightness(1.18) drop-shadow(0 0 28px rgba(77, 184, 232, 0.70));
+  filter: brightness(1.18) drop-shadow(0 0 28px rgba(62, 212, 176, 0.75));
 }
 
 @media (max-width: 600px) {
@@ -123,11 +115,12 @@ nav { margin-top: 1.2rem; }
 
 nav ul {
   list-style: none;
-  padding: 0 0 0 2rem;
+  padding: 0;
   margin: 0;
   display: flex;
   gap: 3rem;
   align-items: center;
+  justify-content: center;
 }
 
 header nav a, .page-content nav a {
@@ -369,11 +362,11 @@ em     { font-style: italic; color: var(--text-secondary); }
 .hero-card {
   background: linear-gradient(
     135deg,
-    rgba(12, 22, 40, 0.98) 0%,
-    rgba(7, 14, 28, 0.98) 100%
+    rgba(10, 22, 18, 0.98) 0%,
+    rgba(8, 18, 28, 0.98) 100%
   );
-  border: 1px solid rgba(58, 159, 200, 0.45);
-  border-top: 2px solid var(--crystal-blue);
+  border: 1px solid rgba(46, 180, 130, 0.45);
+  border-top: 2px solid var(--nebula-cyan);
   border-radius: 16px;
   padding: 3.5rem 4rem;
   display: flex;
@@ -384,7 +377,7 @@ em     { font-style: italic; color: var(--text-secondary); }
   min-height: 300px;
   box-shadow:
     0 16px 60px rgba(0, 0, 0, 0.65),
-    0 0 0 1px rgba(77, 184, 232, 0.10),
+    0 0 0 1px rgba(46, 180, 130, 0.12),
     inset 0 1px 0 rgba(255, 255, 255, 0.05);
   transition: border-color 0.35s, box-shadow 0.35s, transform 0.3s;
 }
@@ -394,8 +387,9 @@ em     { font-style: italic; color: var(--text-secondary); }
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse 55% 90% at 80% 50%, rgba(30, 130, 210, 0.22) 0%, transparent 65%),
-    radial-gradient(ellipse 35% 55% at 5% 85%, rgba(46, 200, 113, 0.12) 0%, transparent 55%);
+    radial-gradient(ellipse 50% 85% at 80% 50%, rgba(30, 130, 210, 0.28) 0%, transparent 65%),
+    radial-gradient(ellipse 40% 60% at 5% 80%,  rgba(46, 200, 90,  0.28) 0%, transparent 55%),
+    radial-gradient(ellipse 25% 30% at 50% 10%,  rgba(242, 200, 66, 0.08) 0%, transparent 60%);
   pointer-events: none;
 }
 
@@ -405,10 +399,11 @@ em     { font-style: italic; color: var(--text-secondary); }
 .hero-card.section-posts   { border-top-color: var(--crystal-blue); }
 
 .hero-card.hero-card-link:hover {
-  border-color: rgba(77, 184, 232, 0.80);
+  border-color: rgba(62, 212, 176, 0.80);
   box-shadow:
-    0 24px 80px rgba(15, 55, 110, 0.65),
-    0 0 120px rgba(77, 184, 232, 0.12),
+    0 24px 80px rgba(10, 55, 35, 0.55),
+    0 24px 80px rgba(15, 55, 110, 0.35),
+    0 0 120px rgba(62, 212, 176, 0.10),
     inset 0 1px 0 rgba(255, 255, 255, 0.07);
   transform: translateY(-4px);
 }
@@ -467,9 +462,10 @@ em     { font-style: italic; color: var(--text-secondary); }
   border-radius: 50%;
   background: radial-gradient(
     ellipse at center,
-    rgba(77, 184, 232, 0.42) 0%,
-    rgba(30, 130, 210, 0.22) 45%,
-    transparent 70%
+    rgba(46, 204, 113, 0.40) 0%,
+    rgba(62, 212, 176, 0.25) 35%,
+    rgba(30, 130, 210, 0.15) 60%,
+    transparent 75%
   );
   position: relative;
   animation: nebula-pulse 4.5s ease-in-out infinite;
@@ -1063,6 +1059,8 @@ form[role="form"] input[type="submit"] {
 
 /* ── Mobile (≤ 800px) ───────────────────────────────────── */
 @media (max-width: 800px) {
+  body { background-attachment: scroll; }
+
   header { padding: 1.6rem 1rem 3rem; }
 
   .site-logo { max-width: 78%; width: 78%; margin: 0 auto; display: block; }
@@ -1071,12 +1069,12 @@ form[role="form"] input[type="submit"] {
     position: absolute;
     top: 100%; left: 0;
     width: 100%;
-    background: rgba(8, 18, 32, 0.97);
+    background: rgba(6, 14, 10, 0.97);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     z-index: 9;
-    border-top: 1px solid rgba(58, 159, 200, 0.35);
-    border-bottom: 1px solid rgba(58, 159, 200, 0.35);
+    border-top: 1px solid rgba(46, 180, 130, 0.38);
+    border-bottom: 1px solid rgba(46, 180, 130, 0.38);
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.55);
     display: none;
   }
