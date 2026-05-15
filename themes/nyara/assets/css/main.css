@@ -1099,6 +1099,10 @@ form[role="form"] input[type="submit"] {
   .home-intro-side { flex: 1 1 auto; position: static; }
   .home-intro img { float: none; margin: 1rem auto; height: auto; max-height: 180px; }
 
+  .wip-row { flex-direction: column-reverse; }
+  .wip-cover { display: flex; justify-content: center; }
+  .wip-cover img { height: auto; max-height: 200px; margin: 0 auto; }
+
   .hero-card {
     flex-direction: column;
     padding: 2rem 1.5rem;
