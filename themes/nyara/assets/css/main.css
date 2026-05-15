@@ -687,13 +687,24 @@ em     { font-style: italic; color: var(--text-secondary); }
 
 /* ── Prose shell (single posts & pages) ─────────────────── */
 .prose-body {
-  max-width: 760px;
+  max-width: 100%;
   margin: 0 auto;
   background: var(--card-surface);
   border: 1px solid var(--card-border);
   border-radius: 14px;
   padding: 2.5rem 3.5rem;
   box-shadow: 0 4px 32px rgba(0, 0, 0, 0.5);
+}
+
+/* Constrain running text to a comfortable reading width */
+.prose-body > p,
+.prose-body > ul,
+.prose-body > ol,
+.prose-body > blockquote,
+.prose-body > h2,
+.prose-body > h3,
+.prose-body > h4 {
+  max-width: 72ch;
 }
 
 .prose-body h1 {
@@ -722,7 +733,7 @@ body.section-posts .prose-body  { border-left: 3px solid rgba(77, 184, 232, 0.75
 
 /* ── Subscribe widget under articles ───────────────────── */
 .prose-subscribe {
-  max-width: 760px;
+  max-width: 100%;
   margin: 1.5rem auto 0;
   background: var(--card-surface);
   border: 1px solid var(--card-border);
@@ -1121,6 +1132,13 @@ form[role="form"] input[type="submit"] {
   }
 
   .prose-body     { padding: 1.8rem 1.5rem; }
+  .prose-body > p,
+  .prose-body > ul,
+  .prose-body > ol,
+  .prose-body > blockquote,
+  .prose-body > h2,
+  .prose-body > h3,
+  .prose-body > h4 { max-width: 100%; }
   .prose-subscribe { padding: 1.5rem; }
   .subscribe-band  { padding: 2rem 1rem; }
 }
