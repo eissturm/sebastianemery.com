@@ -128,7 +128,7 @@
 
   /* ── WIP progress bars ────────────────────────────────────── */
   function initWipProgress() {
-    document.querySelectorAll('.wip-text p').forEach((p) => {
+    document.querySelectorAll('.wip-text p, .prose-body p').forEach((p) => {
       const match = p.textContent.match(/(\d+)%/);
       if (!match) return;
       const pct = parseInt(match[1], 10);

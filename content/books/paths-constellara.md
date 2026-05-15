@@ -1,8 +1,11 @@
 +++
 title = 'Paths of Constellara'
-date = 2025-01-05T13:37:46-05:00
+date = 2026-01-05T13:37:46-05:00
 tags = ["Constellara", "science fiction", "space opera", "space fantasy", "shared universe"]
 +++
+
+![paths of constellara logo](https://pathsofconstellara.com/masthead-transparent.png)
+
 Welcome to [Constellara](https://pathsofconstellara.com), a vibrant star cluster teeming with diverse life, advanced technology, and mystical powers. 
 
 ## Read Starchasers and the Sanctum of Ktheron Now
