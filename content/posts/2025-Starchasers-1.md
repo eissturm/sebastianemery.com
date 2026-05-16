@@ -3,6 +3,7 @@ title = 'Episode I: The Starchasers and the Santum of Ktheron'
 date = 2025-02-01T08:00:00-04:00
 tags = ["Preview Chapter", "short story", "science fiction", "space opera", "Constellara", "Free Fiction", "serial", "Starchasers"]
 keywords = ["sci-fi","science fiction", "short story", "free fiction", "constellara", "space opera", "action","adventure", "starchasers", "starchasers story", "serial", "constellara", "pathways of constellara"]
+description = "A ragtag crew of alien misfits hunts a legendary Pathway through a gas giant's storm-wracked moon — the first Starchasers adventure, set in the Paths of Constellara shared universe. Full text available free on pathsofconstellara.com."
 +++
 
 > WARNING: Hostile meteorlogical conditions detected. Recommend exiting atomosphere until storm-

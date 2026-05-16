@@ -2,6 +2,9 @@
 title = 'Imperial Heart'
 date = 2025-01-01T06:00:00-06:00
 tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
+description = "The second book in the Crystal Empire epic fantasy trilogy. Five years after his betrayal, Malcon returns from exile beyond the crystalline Wall to confront the conspiracy threatening to corrupt the Empire from within."
+genre = "Epic Fantasy"
+series = "Crystal Empire"
 +++
 
 ![the crystal empire](/images/crystal-empire-logo.png)

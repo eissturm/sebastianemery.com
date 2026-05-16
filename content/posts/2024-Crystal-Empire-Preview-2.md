@@ -3,6 +3,7 @@ title = 'The Crystal Empire Preview: Chapter 1'
 date = 2024-03-15T09:25:00-04:00
 tags = ["Preview Chapter", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
 keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "chapter 1", "demara", "fringe", "fiction", "high fantasy", "free fiction"]
+description = "Read Chapter 1 of To Chase Light, Book 1 of the Crystal Empire trilogy. Demara's story begins at the edge of the world, where her tribe scratches out survival beyond the Wall. Free preview chapter."
 +++
 
 ## Introduction

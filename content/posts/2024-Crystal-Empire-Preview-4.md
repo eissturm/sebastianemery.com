@@ -4,6 +4,7 @@ date = 2024-06-21T20:39:24-04:00
 tags = ["Preview Chapter", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
 draft = true
 keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "chapter 20", "mal", "fiction", "high fantasy", "free fiction"]
+description = "Read Chapter 20 of To Chase Light, Book 1 of the Crystal Empire epic fantasy trilogy — deep in the empire, as Mal's journey takes a dark turn. A draft preview chapter from the author."
 +++
 
 ## Introduction

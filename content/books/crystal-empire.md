@@ -2,6 +2,9 @@
 title = 'To Chase Light'
 date = 2023-12-06T16:37:46-06:00
 tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
+description = "God is dead, but somebody still has to do the job. The first book in the Crystal Empire epic fantasy trilogy — Demara, a young woman from the world's outer fringes, must uncover the secrets of the crystals at the heart of a yearly apocalypse and save her people from extinction."
+genre = "Epic Fantasy"
+series = "Crystal Empire"
 +++
 
 ![the crystal empire](/images/crystal-empire-logo.png)

@@ -12,70 +12,63 @@
     </div>
   </div>
 
-  {{ $allPages := where site.RegularPages "Section" "books" }}
-  {{ $paginator := .Paginate $allPages 10 }}
+  {{ $books := first 3 (where site.RegularPages "Section" "books") }}
 
   <div class="section-divider"><span>Latest Works</span></div>
 
-  {{ if not $paginator.HasPrev }}
+  {{/* ── Featured hero card ── */}}
+  {{ with index $books 0 }}
+    <article class="hero-card section-books hero-card-link post-card-link">
+      <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
+      <div class="hero-card-body">
+        <span class="featured-label">Book</span>
+        <h2 class="hero-title">{{ .LinkTitle }}</h2>
+        <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <p class="hero-summary">{{ .Summary }}</p>
+        <span class="hero-cta">Read &rarr;</span>
+      </div>
+      <div class="hero-nebula" aria-hidden="true"></div>
+    </article>
+  {{ end }}
 
-    {{/* ── Featured hero card ── */}}
-    {{ with index $paginator.Pages 0 }}
-      {{ $sClass := "section-default" }}
-      {{ if eq .Section "books" }}{{ $sClass = "section-books" }}{{ end }}
-      {{ if eq .Section "posts" }}{{ $sClass = "section-blog" }}{{ end }}
-      {{ $label := "Post" }}
-      {{ if eq .Section "books" }}{{ $label = "Book" }}{{ end }}
-      <article class="hero-card {{ $sClass }} hero-card-link post-card-link">
-        <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
-        <div class="hero-card-body">
-          <span class="featured-label">{{ $label }}</span>
-          <h2 class="hero-title">{{ .LinkTitle }}</h2>
+  {{/* ── Remaining 2 books ── */}}
+  {{ if gt (len $books) 1 }}
+    <div class="editorial-grid">
+      {{ range after 1 $books }}
+        <article class="post-card section-books post-card-link">
+          <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
+          <span class="card-section-tag">Book</span>
+          <h2>{{ .LinkTitle }}</h2>
           <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-          <p class="hero-summary">{{ .Summary }}</p>
-          <span class="hero-cta">Read &rarr;</span>
-        </div>
-        <div class="hero-nebula" aria-hidden="true"></div>
-      </article>
-    {{ end }}
+          <p class="card-summary">{{ .Summary }}</p>
+        </article>
+      {{ end }}
+    </div>
+  {{ end }}
 
-    {{/* ── Editorial grid of remaining posts ── */}}
-    {{ if gt (len $paginator.Pages) 1 }}
+  <p style="text-align:center;margin-top:1.5rem;">
+    <a href="/books/" class="button">All Books &rarr;</a>
+  </p>
+
+  {{/* ── Free Fiction section ── */}}
+  {{ with site.GetPage "/tags/free-fiction" }}
+    {{ $fiction := .Pages.ByDate.Reverse }}
+    {{ if $fiction }}
+      <div class="section-divider"><span>Free Fiction</span></div>
       <div class="editorial-grid">
-        {{ range after 1 $paginator.Pages }}
-          {{ $sClass := "section-default" }}
-          {{ if eq .Section "books" }}{{ $sClass = "section-books" }}{{ end }}
-          {{ if eq .Section "posts" }}{{ $sClass = "section-blog" }}{{ end }}
-          <article class="post-card {{ $sClass }} post-card-link">
+        {{ range first 5 $fiction }}
+          <article class="post-card section-blog post-card-link">
             <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
-            <span class="card-section-tag">{{ if eq .Section "books" }}Book{{ else }}Post{{ end }}</span>
+            <span class="card-section-tag">Free Fiction</span>
             <h2>{{ .LinkTitle }}</h2>
             <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
             <p class="card-summary">{{ .Summary }}</p>
           </article>
         {{ end }}
       </div>
+      <p style="text-align:center;margin-top:1.5rem;">
+        <a href="/tags/free-fiction/" class="button">All Free Fiction &rarr;</a>
+      </p>
     {{ end }}
-
-  {{ else }}
-
-    {{/* ── Page 2+: full editorial grid ── */}}
-    <div class="editorial-grid">
-      {{ range $paginator.Pages }}
-        {{ $sClass := "section-default" }}
-        {{ if eq .Section "books" }}{{ $sClass = "section-books" }}{{ end }}
-        {{ if eq .Section "posts" }}{{ $sClass = "section-blog" }}{{ end }}
-        <article class="post-card {{ $sClass }} post-card-link">
-          <a href="{{ .RelPermalink }}" class="card-cover-link" aria-label="Read {{ .LinkTitle }}"></a>
-            <span class="card-section-tag">{{ if eq .Section "books" }}Book{{ else }}Post{{ end }}</span>
-            <h2>{{ .LinkTitle }}</h2>
-            <time class="post-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-            <p class="card-summary">{{ .Summary }}</p>
-          </article>
-      {{ end }}
-    </div>
-
   {{ end }}
-
-  {{ template "_internal/pagination.html" . }}
 {{ end }}

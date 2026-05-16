@@ -2,6 +2,7 @@
 title = 'Decemilia Verba'
 date = 2014-12-01T20:21:47-06:00
 tags = ["novellette", "fantasy", "Free Fiction"]
+description = "Ten thousand magical words, recited perfectly, are a listening experience unlike any other. An award-winning fantasy novelette about magic, music, and what words mean — winner of the r/FantasyWriters contest, November 2014."
 +++
 Ten thousand magical words are a listening experience unlike any other, if you can recite them perfectly. One of the only men who can is in the city for just one night, for just one performance that cannot be missed.
 

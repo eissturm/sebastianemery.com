@@ -2,6 +2,9 @@
 title = 'The Final Turning'
 date = 2026-04-19T18:33:43-04:00
 tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
+description = "The concluding book of the Crystal Empire epic fantasy trilogy. Three months from the end of everything, Demara must decide whether she will be the Empire's savior — or its destruction."
+genre = "Epic Fantasy"
+series = "Crystal Empire"
 +++
 
 ![the crystal empire](/images/crystal-empire-logo.png)

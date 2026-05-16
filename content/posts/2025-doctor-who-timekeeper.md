@@ -2,6 +2,7 @@
 title = 'Doctor Who: Timekeeper'
 date = 2025-06-01T08:00:00-04:00
 tags = ["short story", "Doctor Who", "FanFiction", "Free Fiction"]
+description = "The Doctor has finally retired. After an eternity of saving the universe, it's time to watch from the sidelines — until the ends of the worlds start arriving anyway. A Doctor Who short story, full text on Archive of Our Own."
 +++
 
 I would love to write Doctor Who for a few years. Just saying.

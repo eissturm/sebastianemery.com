@@ -5,6 +5,7 @@ tags = ["short story", "fantasy", "epic fantasy", "Terinu Nights", "Dvor", "Free
 keywords = ["urban fantasy", "terinu", "justice", "short story", "holiday", "glyphlamps", "fiction", "cold night", "fantasy", "docks"]
 read_more_copy = "Read now - Full Text Online"
 draft = false
+description = "A cold night in the immigrant quarter of Terinu. Dit works double shifts to keep his family fed, but when thieves take more than they should, he takes justice into his own hands. An urban fantasy short story, ~2,400 words."
 +++
 # Introduction
 Genre: Urban Fantasy

@@ -3,6 +3,7 @@ title = 'The Crystal Empire Preview: Prologue'
 date = 2024-01-15T09:20:00-04:00
 tags = ["Preview Chapter", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
 keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "prologue", "god emperor", "fiction", "high fantasy", "free fiction"]
+description = "Read the prologue of To Chase Light, Book 1 of the Crystal Empire trilogy. The God Emperor is dying before his time — and someone on his own council is responsible. Free preview chapter."
 +++
 
 ## Introduction

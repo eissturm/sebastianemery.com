@@ -4,6 +4,7 @@ date = 2024-12-31T23:59:59-05:00
 tags = ["short story", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
 keywords = ["fantasy","epic fantasy", "short story", "free fiction", "crystal empire", "magic system", "action","adventure", "the exile", "the exile story"]
 read_more_copy = "Read now - Full Text Online"
+description = "Banished and betrayed, Mal wanders the Fringe beyond the Crystal Empire's Wall — fighting monsters, running cons, and hunting the woman who cost him everything. A Crystal Empire short story, ~3,700 words."
 +++
 ![Crystal Empire Logo](/images/crystal-empire-logo.png)
 

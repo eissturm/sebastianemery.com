@@ -3,6 +3,7 @@ title = 'LastManStanding.exe | An Exeverse Story'
 date = 2025-04-10T08:00:00-04:00
 tags = ["Preview Chapter", "short story", "science fiction", "cyberpunk", "Exeverse","legacy.exe", "thriller"]
 keywords = ["sci-fi","science fiction", "short story", "exeverse", "cyberpunk", "thriller","action","legacy.exe"]
+description = "A standalone cyberpunk thriller set in the Exeverse, the world of J.A. Gillette's Legacy.exe. In near-future San Francisco where virtual sin is two blocks off Market Street, a digital black market dealer takes on one last job."
 +++
 
 LastManStanding.exe is a standalone story set in the 'Exeverse', the world of [J.A. Gillette's](https://www.authorjagillette.com/) [Legacy.exe](https://books2read.com/Legacyexe)

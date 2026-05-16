@@ -1,6 +1,7 @@
 +++
 title = 'Sunset Kingdom: Spring of Black Flowers'
-description = 'A novel by Sebastian Emery'
+description = 'An epic fantasy novel of politics, intrigue, and legends best left buried. Henric Aldrimar, a young noble thrust into the games of a crumbling kingdom, must navigate war and ancient secrets to save his family. Available free on RoyalRoad and Wattpad.'
+genre = "Epic Fantasy"
 date = 2015-03-30T21:10:20-06:00
 tags = ["novel", "fantasy", "Sunset Kingdom", "Free Fiction"]
 +++

@@ -3,6 +3,7 @@ title = 'Sunbuilders'
 date = 2014-01-30T22:05:25-06:00
 tags = ["short story", "science fiction", "Free Fiction"]
 read_more_copy = "Read now - Full Text Online"
+description = "At the end of space and the end of time, two traders on a dying ice world encounter visitors from the sky who may hold the secret to rekindling the stars. A space opera short story, ~2,000 words."
 +++
 # Introduction
 Genre: Space Opera

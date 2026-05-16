@@ -2,6 +2,8 @@
 title = 'Paths of Constellara'
 date = 2026-01-05T13:37:46-05:00
 tags = ["Constellara", "science fiction", "space opera", "space fantasy", "shared universe"]
+description = "A collaborative science fiction shared universe set in Constellara, a star cluster connected by ancient interstellar portals called Pathways. Co-created by Sebastian Emery, Liv Savell, and J.A. Gillette — featuring space opera, psionics, and the Starchasers adventure series."
+genre = "Science Fiction"
 +++
 
 ![paths of constellara logo](https://pathsofconstellara.com/masthead-transparent.png)

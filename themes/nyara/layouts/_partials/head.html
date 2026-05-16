@@ -11,6 +11,46 @@
 <meta property="og:image" content="{{ with .Params.featured_image }}{{ . | absURL }}{{ else }}{{ "/images/og-default.png" | absURL }}{{ end }}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ with .Params.featured_image }}{{ . | absURL }}{{ else }}{{ "/images/og-default.png" | absURL }}{{ end }}">
+<!-- Schema.org structured data -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.Title | jsonify }},
+  "url": {{ site.BaseURL | jsonify }},
+  "description": {{ site.Params.description | jsonify }},
+  "author": { "@type": "Person", "name": "Sebastian Emery", "url": {{ site.BaseURL | jsonify }} }
+}
+</script>
+{{ else if eq .Section "about" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sebastian Emery",
+  "url": {{ site.BaseURL | jsonify }},
+  "description": "Character-driven speculative fiction writer. Author of the Crystal Empire epic fantasy trilogy and co-creator of the Paths of Constellara shared universe.",
+  "sameAs": [
+    "https://bsky.app/profile/sebastianemery.com",
+    "https://www.youtube.com/@sebastian-emery-author"
+  ]
+}
+</script>
+{{ else if eq .Section "books" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": {{ .Title | jsonify }},
+  "url": {{ .Permalink | jsonify }},
+  "author": { "@type": "Person", "name": "Sebastian Emery", "url": {{ site.BaseURL | jsonify }} }
+  {{ with .Description }}, "description": {{ . | jsonify }}{{ end }}
+  {{ with .Params.genre }}, "genre": {{ . | jsonify }}{{ end }}
+  {{ with .Params.series }}, "isPartOf": { "@type": "BookSeries", "name": {{ . | jsonify }} }{{ end }}
+}
+</script>
+{{ end }}
 {{ partialCached "head/css.html" . }}
 {{ partialCached "head/js.html" . }}
 

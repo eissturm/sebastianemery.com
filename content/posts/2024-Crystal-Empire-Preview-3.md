@@ -4,6 +4,7 @@ date = 2024-04-23T20:35:48-04:00
 tags = ["Preview Chapter", "fantasy", "epic fantasy", "Crystal Empire", "Free Fiction"]
 draft = true
 keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "chapter 7", "kinro", "fiction", "high fantasy", "free fiction"]
+description = "Read Chapter 7 of To Chase Light, Book 1 of the Crystal Empire epic fantasy trilogy. A draft preview chapter from the author."
 +++
 
 ## Introduction
