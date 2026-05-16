@@ -1062,6 +1062,42 @@ form[role="form"] input[type="submit"] {
   letter-spacing: 0.01em;
 }
 
+/* ── About page ─────────────────────────────────────────── */
+.about-photo {
+  float: right;
+  width: 280px;
+  margin: 0 0 1.5rem 2.5rem;
+}
+
+.about-photo img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 10px;
+}
+
+.about-links {
+  clear: both;
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(77, 184, 232, 0.22);
+  text-align: center;
+  font-family: 'Spectral', serif;
+  font-size: 0.9rem;
+  letter-spacing: 0.04em;
+}
+
+.about-links p { margin-bottom: 0.5rem; }
+
+@media (max-width: 800px) {
+  .about-photo {
+    float: none;
+    width: 100%;
+    max-width: 280px;
+    margin: 0 auto 1.5rem;
+  }
+}
+
 /* ── Keyframes ──────────────────────────────────────────── */
 @keyframes rise-in {
   from { opacity: 0; transform: translateY(22px); }

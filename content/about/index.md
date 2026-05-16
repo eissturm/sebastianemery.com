@@ -1,11 +1,15 @@
 +++
 title = 'About'
 date = 2023-12-05T19:58:20-06:00
+hide_date = true
 menu = "main"
 +++
-Sebastian Emery is a speculative fiction writer based in St. Petersburg, Florida, who has been building imaginary worlds since long before he had the craft to do them justice. He is currently fixing that.
 
-![Sebastian Emery](/images/andrew-meyer.jpg)
+<div class="about-photo">
+<img src="/images/andrew-meyer.jpg" alt="Sebastian Emery">
+</div>
+
+Sebastian Emery is a speculative fiction writer based in St. Petersburg, Florida, who has been building imaginary worlds since long before he had the craft to do them justice. He is currently fixing that.
 
 He came to books early and stayed. The ones that mattered were always the strange ones — the ones where the world had no business working the way it did, but somehow felt more real for it. His first attempts at writing followed shortly after, including several ideas from that era he describes, generously, as "probably best lost."
 
@@ -17,6 +21,10 @@ He is also one of the co-creators of [Paths of Constellara](https://pathsofconst
 
 He lives in St. Petersburg with his wife and two children, who have so far declined to read his drafts. Because they're toddlers.
 
----
+<div class="about-links">
 
-*[Free fiction](/tags/free-fiction/) and [preview chapters](/tags/preview-chapter/) are available on this site. Publicity and media inquiries: requests@sebastianemery.com*
+[Free Fiction](/tags/free-fiction/) · [Preview Chapters](/tags/preview-chapter/) · [Bluesky](https://bsky.app/profile/sebastianemery.com) · [YouTube](https://www.youtube.com/@sebastian-emery-author)
+
+*Publicity and media inquiries: [requests@sebastianemery.com](mailto:requests@sebastianemery.com)*
+
+</div>
