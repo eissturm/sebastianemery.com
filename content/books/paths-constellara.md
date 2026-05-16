@@ -1,7 +1,7 @@
 +++
 title = 'Paths of Constellara'
 date = 2026-01-05T13:37:46-05:00
-tags = ["Constellara", "science fiction", "space opera", "space fantasy", "shared universe"]
+tags = ["Constellara", "science fiction", "space opera", "space fantasy", "shared universe", "Starchasers"]
 description = "A collaborative science fiction shared universe set in Constellara, a star cluster connected by ancient interstellar portals called Pathways. Co-created by Sebastian Emery, Liv Savell, and J.A. Gillette — featuring space opera, psionics, and the Starchasers adventure series."
 genre = "Science Fiction"
 +++
@@ -11,7 +11,7 @@ genre = "Science Fiction"
 Welcome to [Constellara](https://pathsofconstellara.com), a vibrant star cluster teeming with diverse life, advanced technology, and mystical powers. 
 
 ## Read Starchasers and the Sanctum of Ktheron Now
-The full text of the very first *Starchasers* adventure is available at [pathsofconstellara.com](https://pathsofconstellara.com/stories/the-starchasers-and-the-sanctum-of-ktheron)
+The full text of the very first [*Starchasers*](/tags/Starchasers) adventure is available at [pathsofconstellara.com](https://pathsofconstellara.com/stories/the-starchasers-and-the-sanctum-of-ktheron)
 
 ## About Constellara
 

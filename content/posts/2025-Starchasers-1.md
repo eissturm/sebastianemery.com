@@ -10,7 +10,7 @@ description = "A ragtag crew of alien misfits hunts a legendary Pathway through 
 
 The Starchasers are a down-on-their luck, rag tag group of alien misfits just trying to make it in this crazy galaxy they call home. Led by Captain Goose, they're sassy, they're scrappy, and they're broke.
 
-The full text of Starchasers and the Sactum of Ktheron is available on the [Constellara](https://pathsofconstellara.com/stories/the-starchasers-and-the-sanctum-of-ktheron) website.
+The full text of *Starchasers and the Sactum of Ktheron* is available on the [Constellara](https://pathsofconstellara.com/stories/the-starchasers-and-the-sanctum-of-ktheron) website.
 
 ---
 
