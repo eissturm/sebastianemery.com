@@ -7,15 +7,12 @@ read_more_copy = "Read now - Full Text Online"
 draft = false
 description = "A cold night in the immigrant quarter of Terinu. Dit works double shifts to keep his family fed, but when thieves take more than they should, he takes justice into his own hands. An urban fantasy short story, ~2,400 words."
 +++
-# Introduction
-Genre: Urban Fantasy
-Word Count: 2400 Words
 
-It's a cold night on the hard, unforgiving streets of Terinu, and nobody seems to realize it's a holy day.
+> It's a cold night on the hard, unforgiving streets of Terinu, and nobody seems to realize it's a holy day.
 
 Harbor Justice was first written in December 2014.
 
-# Harbor Justice
+---
 
 Dit could see the wisps of his breath in the white glow of the Harbor Bridge’s glyphlamps. Mother had probably let the boys build too big a fire while she set out preparations at home. Hopefully the house still stood. Maybe one day he could get one of those glyphstoves like Varino’s had, then he wouldn’t have to worry so much when he was gone. He took a deep breath, and sighed while looking down the canal to the black harbor beyond. If he buttoned up his worn brown coat, he could enjoy the quiet a few moments longer.  
 

@@ -5,15 +5,12 @@ tags = ["short story", "science fiction", "Free Fiction"]
 read_more_copy = "Read now - Full Text Online"
 description = "At the end of space and the end of time, two traders on a dying ice world encounter visitors from the sky who may hold the secret to rekindling the stars. A space opera short story, ~2,000 words."
 +++
-# Introduction
-Genre: Space Opera
-Word Count: 2000 Words
 
-*Far away, at the edge of space and the end of time is the world of Rhial, one of the last vestiges of terrestrial life anywhere in the dark, star-less universe. It is a cold, harsh world, where person's worth is measured in heat. While the world's leaders know full well they live on borrowed time as the universe spins down, and are determined to eek out what living they can until then, many of traders and explorers who wander the ice insist the stars will return.*
+> Far away, at the edge of space and the end of time is the world of Rhial, one of the last vestiges of terrestrial life anywhere in the dark, star-less universe. It is a cold, harsh world, where person's worth is measured in heat. While the world's leaders know full well they live on borrowed time as the universe spins down, and are determined to eek out what living they can until then, many of traders and explorers who wander the ice insist the stars will return.*
 
 Sunbuilders was first published in March 2015.
 
-# Sunbuilders
+---
 
 “Mush!” Mulo cracked his whip against Roon’s thick, shaggy grey coat, urging the lumbering quadruped to surge faster and kicking up clouds of snow in their trail.  Crates containing that season’s harvest rattled against each other with every bump as the sled was slung side to side behind the three horned uris.  “Fast enough for you?”
 

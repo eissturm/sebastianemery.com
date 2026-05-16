@@ -4,14 +4,15 @@ date = 2014-12-01T20:21:47-06:00
 tags = ["novellette", "fantasy", "Free Fiction"]
 description = "Ten thousand magical words, recited perfectly, are a listening experience unlike any other. An award-winning fantasy novelette about magic, music, and what words mean — winner of the r/FantasyWriters contest, November 2014."
 +++
-Ten thousand magical words are a listening experience unlike any other, if you can recite them perfectly. One of the only men who can is in the city for just one night, for just one performance that cannot be missed.
-
-This award winning novella is a story of magic, music, and the power of what words mean to each of us.
-
-Decemilia Verba won the r/FantasyWriters monthly short story contest in November 2014, and was featured in the *Champions* Anthology collected and edited by Alex S. Bradshaw. 
 
 ![Decemilia Verba Cover](/images/Decemilia-Verba-Cover.png)
 > The cover of Decemilia's e-book release, available as a gift for joining my newsletter
+
+Ten thousand magical words are a listening experience unlike any other, if you can recite them perfectly. One of the only men who can is in the city for just one night, for just one performance that cannot be missed.
+
+This award-winning novella is a story of magic, music, and the power of what words mean to each of us.
+
+Decemilia Verba won the r/FantasyWriters monthly short story contest in November 2014, and was featured alongside the likes of Andrea G Stewart in the *Champions* Anthology collected and edited by Alex S. Bradshaw. 
 
 ## Praise for *Decemilia Verba*
 

@@ -7,17 +7,14 @@ keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "chapter 7",
 description = "Read Chapter 7 of To Chase Light, Book 1 of the Crystal Empire epic fantasy trilogy. A draft preview chapter from the author."
 +++
 
-## Introduction
-Genre: High Fantasy
-Word Count: 1700 Words
+![the crystal empire](/images/crystal-empire-logo.png)
 
-For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
+For your reading pleasure is an early look into an early chapter of *[The Crystal Empire](/works/crystal-empire)*, my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
 
 ---
 
-![the crystal empire](/images/crystal-empire-logo.png)
 
-## Kinro 1
+## Chapter 7
 
 
 Kinro, hunter of the Hawk tribe wished he could be anybody else. Their tribe had once been a noble group that had lived in harmony with the others of the Fringe, but Kinro’s father had ambitions for glory and gold that tradition could not satisfy. So when mother died, his father turned them into bandits, then raiders, terrorizing the other tribes across the Fringe until they simply had offerings ready for him to take when he and his men would ride up to their little villages. Until that bored him.

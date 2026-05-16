@@ -7,7 +7,7 @@ keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "chapter 20"
 description = "Read Chapter 20 of To Chase Light, Book 1 of the Crystal Empire epic fantasy trilogy — deep in the empire, as Mal's journey takes a dark turn. A draft preview chapter from the author."
 +++
 
-## Introduction
+![the crystal empire](/images/crystal-empire-logo.png)
 
 For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
 
@@ -15,10 +15,7 @@ This selection is from a bit later in the book.
 
 ---
 
-![the crystal empire](/images/crystal-empire-logo.png)
-
-## Mal 1
-
+## Chapter 20
 
 Things were not going according to plan. That wasn’t unusual for one of his plans, but Mal had hoped they could have avoided any major interruptions until they were within sight of the Wall. He shoved down the doubts and the worries that clawed at him for years now, and felt for the toddler-sized hunk of crystal he wore on his back, the light inside reaching up for him, enveloping him.
 

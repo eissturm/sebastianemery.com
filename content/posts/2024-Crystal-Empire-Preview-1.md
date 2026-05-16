@@ -6,17 +6,11 @@ keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "prologue", 
 description = "Read the prologue of To Chase Light, Book 1 of the Crystal Empire trilogy. The God Emperor is dying before his time — and someone on his own council is responsible. Free preview chapter."
 +++
 
-## Introduction
-Genre: High Fantasy
-Word Count: 2100 Words
+![the crystal empire](/images/crystal-empire-logo.png)
 
-For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
+For your reading pleasure is an early look into an early chapter of *[The Crystal Empire](/works/crystal-empire)*, my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
 
 This chapter server as the prologue, and centers around Tulian, God Emperor of all creation as he dies before he is supposed to.
-
----
-
-![the crystal empire](/images/crystal-empire-logo.png)
 
 ---
 

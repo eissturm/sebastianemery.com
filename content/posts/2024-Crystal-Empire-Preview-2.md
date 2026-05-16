@@ -6,23 +6,17 @@ keywords = ["crystal empire", "fantasy", "epic fantasy", "preview", "chapter 1",
 description = "Read Chapter 1 of To Chase Light, Book 1 of the Crystal Empire trilogy. Demara's story begins at the edge of the world, where her tribe scratches out survival beyond the Wall. Free preview chapter."
 +++
 
-## Introduction
-Genre: High Fantasy
-Word Count: 4000 Words
+![the crystal empire](/images/crystal-empire-logo.png)
 
-For your reading pleasure is an early look into an early chapter of [*The Crystal Empire*](/works/crystal-empire), my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
+For your reading pleasure is an early look into an early chapter of *[The Crystal Empire](/works/crystal-empire)*, my upcoming epic fantasy project. It is a rought draft, and things will likely change between this and the published version.
 
 This chapter is the first from the perspective of our heroine, Demara, and serves as an introduction to world beyond the Wall, a wild edge of the world known as the Fringe.
 
 ---
 
-![the crystal empire](/images/crystal-empire-logo.png)
-
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1vyTQUBrBvw?si=ONoXu6H9IGfHsOEj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Demara 1
+## Chapter 1
 
 Beneath a slate gray sky, a young woman approaching her fifteenth summer clung to the wall of rock twenty feet off the ground, hoping desperately not to fall. That morning had been cold and damp, threatening snow, and though she had tied her furs tight about herself before leaving home this morning, the cold wind was yet another reason she could not wait to have a crystal of her own. Only one more day.
 
