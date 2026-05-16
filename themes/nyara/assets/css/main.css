@@ -803,7 +803,7 @@ a:hover { color: var(--star-gold); background: none !important; }
 
 main a, .section-default a, .section-blog a, .section-books a, .prose-body a {
   background: none !important;
-  color: var(--nebula-cyan) !important;
+  color: var(--star-gold) !important;
   padding: 0 !important;
   border-radius: 0 !important;
   text-decoration: underline;
@@ -812,7 +812,7 @@ main a, .section-default a, .section-blog a, .section-books a, .prose-body a {
 
 main a:hover, .section-default a:hover, .section-blog a:hover,
 .section-books a:hover, .prose-body a:hover {
-  color: var(--star-gold) !important;
+  color: var(--nebula-cyan) !important;
 }
 
 /* ── Buttons ────────────────────────────────────────────── */
@@ -1100,7 +1100,7 @@ form[role="form"] input[type="submit"] {
   .home-intro img { float: none; margin: 1rem auto; height: auto; max-height: 180px; }
 
   .wip-row { flex-direction: column-reverse; }
-  .wip-cover { display: flex; justify-content: center; }
+  .wip-cover { display: flex; justify-content: center; width: 100%; }
   .wip-cover img { height: auto; max-height: 200px; margin: 0 auto; }
 
   .hero-card {
