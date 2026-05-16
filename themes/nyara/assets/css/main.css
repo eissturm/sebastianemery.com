@@ -63,6 +63,26 @@ header::before {
 
 header > * { position: relative; z-index: 2; }
 
+.header-social {
+  display: flex;
+  gap: 1.4rem;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0.9rem;
+}
+.social-link {
+  color: var(--text-secondary);
+  transition: color 0.22s, transform 0.22s;
+  display: flex;
+  align-items: center;
+  text-decoration: none !important;
+}
+.social-link:hover {
+  color: var(--star-gold) !important;
+  transform: scale(1.18);
+  background: none !important;
+}
+
 header h1 {
   font-family: 'Spectral', serif;
   font-size: clamp(1.8rem, 4vw, 2.8rem);
