@@ -7,9 +7,12 @@ enableRobotsTXT = true
 [services.disqus]
 shortname = 'sebastianemery-com'
 [sitemap]
- chagefreq = "weekly"
+ changefreq = "weekly"
  filename = "sitemap.xml"
  priority = 0.5
+
+[params]
+description = "Character-driven speculative fiction by Sebastian Emery — epic fantasy, space opera, and worlds where the strange details aren't just backdrop; they're the engine."
 
 [params.ananke.social.follow]
 new_window_icon = false

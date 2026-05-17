@@ -1,9 +1,11 @@
 +++
 title = 'Magical Girl Demara | A Crystal Empire Story'
-date = 2026-05-16T07:21:37-04:00
+date = 2025-09-01T07:21:37-04:00
 tags = ["Free Fiction", "Short Story", "Crystal Empire", "Alternative Universe", "Epic Fantasy", "Magical Girl", "High School AU"]
 description = "Crystal Empire characters. High school AU. Monster attacks. Demara is just trying to get out of class without anyone noticing she's a magical girl. A free Crystal Empire short story with big Sailor Moon energy."
 +++
+
+![the crystal empire](/images/crystal-empire-logo.png)
 
 **Magical Girl Demara** takes place in an alternative, non-canon universe remixing elements of the [Crystal Empire](/books/Crystal-Empire) series. It contains some characters that may be unfamiliar to those who have not read Book 2, [Imperial Heart](/books/Crystal-Empire-2).
 

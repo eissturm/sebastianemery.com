@@ -5,6 +5,7 @@ tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
 description = "The concluding book of the Crystal Empire epic fantasy trilogy. Three months from the end of everything, Demara must decide whether she will be the Empire's savior — or its destruction."
 genre = "Epic Fantasy"
 series = "Crystal Empire"
+featured_image = "/images/crystal-empire-logo.png"
 +++
 
 ![the crystal empire](/images/crystal-empire-logo.png)

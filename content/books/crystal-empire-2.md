@@ -5,6 +5,7 @@ tags = ["novel", "fantasy", "epic fantasy", "Crystal Empire"]
 description = "The second book in the Crystal Empire epic fantasy trilogy. Five years after his betrayal, Malcon returns from exile beyond the crystalline Wall to confront the conspiracy threatening to corrupt the Empire from within."
 genre = "Epic Fantasy"
 series = "Crystal Empire"
+featured_image = "/images/crystal-empire-logo.png"
 +++
 
 ![the crystal empire](/images/crystal-empire-logo.png)

@@ -6,6 +6,8 @@ keywords = ["sci-fi","science fiction", "short story", "free fiction", "constell
 description = "A ragtag crew of alien misfits hunts a legendary Pathway through a gas giant's storm-wracked moon — the first Starchasers adventure, set in the Paths of Constellara shared universe. Full text available free on pathsofconstellara.com."
 +++
 
+![paths of constellara logo](https://pathsofconstellara.com/masthead-transparent.png)
+
 > WARNING: Hostile meteorlogical conditions detected. Recommend exiting atomosphere until storm-
 
 The Starchasers are a down-on-their luck, rag tag group of alien misfits just trying to make it in this crazy galaxy they call home. Led by Captain Goose, they're sassy, they're scrappy, and they're broke.

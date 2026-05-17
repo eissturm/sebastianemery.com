@@ -6,6 +6,7 @@ keywords = ["fantasy","epic fantasy", "short story", "free fiction", "crystal em
 read_more_copy = "Read now - Full Text Online"
 description = "Banished and betrayed, Mal wanders the Fringe beyond the Crystal Empire's Wall — fighting monsters, running cons, and hunting the woman who cost him everything. A Crystal Empire short story, ~3,700 words."
 +++
+
 ![Crystal Empire Logo](/images/crystal-empire-logo.png)
 
 

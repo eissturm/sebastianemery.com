@@ -4,6 +4,7 @@ description = 'An epic fantasy novel of politics, intrigue, and legends best lef
 genre = "Epic Fantasy"
 date = 2015-03-30T21:10:20-06:00
 tags = ["novel", "fantasy", "Sunset Kingdom", "Dvor", "Free Fiction"]
+featured_image = "/images/sobf-zero-Cover.png"
 +++
 
 *Available free on [RoyalRoad](https://www.royalroad.com/fiction/104544/spring-of-black-flowers-necromancer-epic-fantasy) and [Wattpad](https://www.wattpad.com/myworks/397647651-spring-of-black-flowers-necromancer-epic-fantasy)*

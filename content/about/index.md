@@ -3,6 +3,7 @@ title = 'About'
 date = 2023-12-05T19:58:20-06:00
 hide_date = true
 menu = "main"
+description = "Sebastian Emery is a speculative fiction writer based in St. Petersburg, Florida. Author of the Crystal Empire epic fantasy trilogy and co-creator of the Paths of Constellara shared universe."
 +++
 
 <div class="about-photo">

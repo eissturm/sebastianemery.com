@@ -6,6 +6,8 @@ keywords = ["fantasy","epic fantasy", "short story", "crystal empire", "magic sy
 description = "Danen doesn't drink to forget. He drinks to keep Yizarathiraz caged — the shadow that murdered his family and has been wearing his body ever since. A Crystal Empire prequel short story set centuries before the trilogy."
 +++
 
+![the crystal empire](/images/crystal-empire-logo.png)
+
 > And before you ask ‘why’, it’s because you have kept us weak Danen. Starved us. If you won’t take care of us, I must.
 
 Set hundreds of years before the events of *[The Crystal Empire](/books/crystal-empire)*, witness a dark truth buried under a millenium of secrets.

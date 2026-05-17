@@ -3,10 +3,12 @@ title = 'Date on Denzore'
 date = 2025-03-01T08:00:00-04:00
 tags = ["Preview Chapter", "short story", "science fiction", "romance", "Constellara"]
 keywords = ["sci-fi","science fiction", "short story", "constellara", "cyberpunk", "romance","action", "constellara story", "serial", "pathways of constellara"]
+draft = true
 +++
 
-> Or; My Dinner with a Space Princess
+![paths of constellara logo](https://pathsofconstellara.com/masthead-transparent.png)
 
+> Or; My Dinner with a Space Princess
 
 The full version of *Date on Denzore* is available on [Patreon](https://patreon.com/c/sebastianemery)
 
