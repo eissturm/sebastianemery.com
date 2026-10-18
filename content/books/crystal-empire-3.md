@@ -18,6 +18,6 @@ featured_image = "/images/crystal-empire-logo.png"
 
 ## Progress
 
-**[ALPHA]**: 1500 / 120000 words (1%)
+**[ALPHA]**: 13000 / 120000 words (10%)
 
 Become an **Alpha reader** by signing up on [Patreon](https://www.patreon.com/c/sebastianemery)
